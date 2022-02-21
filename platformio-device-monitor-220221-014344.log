@@ -1,0 +1,7393 @@
+ўИ���8K����8K���ИK�јK����p��������battery_voltage	64.00
+battery_capacity_ah	30.00
+battery_capacity_coulomb	108000.00
+shunt_voltage	0.00
+
+
+===================
+SHUNT_RESISTANCE	0.00
+SHUNT_MULTIPLIER	0.01
+BATTERY_CAPACITY_AH	30.00
+BATTERY_CAPACITY_COULOMB	108000.00
+battery_capacity_milli_coulomb	54000000
+
+
+===================
+Success ADS
+Success to initialize ADS.
+dt_ms	2748.00
+last_read_micros	4372496
+current_read_micros	4375244
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-0.1374000072
+calculte_milli_coulombs_transffred	21984.0019531250
+battery_capacity_coulomb	108000.0000000000
+battery_capacity_milli_coulomb	54000000
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-70.41231
+% bat	50000.00000
+% batA	0.00000
+% batB	0.00000
+% batC	-11.60714
+
+dt_ms	38928.00
+last_read_micros	4375244
+current_read_micros	4414172
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-1.9464000701
+calculte_milli_coulombs_transffred	311424.0000000000
+battery_capacity_coulomb	54021.9843750000
+battery_capacity_milli_coulomb	54021984
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-35.14206
+% bat	50020.35546
+% batA	0.00000
+% batB	100.00000
+% batC	141.74107
+
+dt_ms	41908.00
+last_read_micros	4414172
+current_read_micros	4456080
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0954000949
+calculte_milli_coulombs_transffred	335264.0312500000
+battery_capacity_coulomb	54005.7265625000
+battery_capacity_milli_coulomb	54005728
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-35.19089
+% bat	50005.30468
+% batA	0.00000
+% batB	0.00000
+% batC	28.34822
+
+dt_ms	41648.00
+last_read_micros	4456080
+current_read_micros	4497728
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0824000835
+calculte_milli_coulombs_transffred	333184.0312500000
+battery_capacity_coulomb	54013.3125000000
+battery_capacity_milli_coulomb	54013312
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-35.16648
+% bat	50012.32421
+% batA	0.00000
+% batB	0.00000
+% batC	81.25000
+
+dt_ms	41644.00
+last_read_micros	4497728
+current_read_micros	4539372
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0822000503
+calculte_milli_coulombs_transffred	333152.0312500000
+battery_capacity_coulomb	54018.8164062500
+battery_capacity_milli_coulomb	54018816
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-35.15122
+% bat	50017.42187
+% batA	0.00000
+% batB	100.00000
+% batC	119.64286
+
+dt_ms	41912.00
+last_read_micros	4539372
+current_read_micros	4581284
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.0955998897
+calculte_milli_coulombs_transffred	335296.0312500000
+battery_capacity_coulomb	54024.2890625000
+battery_capacity_milli_coulomb	54024288
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-35.13291
+% bat	50022.49218
+% batA	0.00000
+% batB	100.00000
+% batC	157.81250
+
+dt_ms	41904.00
+last_read_micros	4581284
+current_read_micros	4623188
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0952000617
+calculte_milli_coulombs_transffred	335232.0312500000
+battery_capacity_coulomb	54031.9023437500
+battery_capacity_milli_coulomb	54031904
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-35.11154
+% bat	50029.53906
+% batA	0.00000
+% batB	200.00000
+% batC	210.93750
+
+dt_ms	41904.00
+last_read_micros	4623188
+current_read_micros	4665092
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0952000617
+calculte_milli_coulombs_transffred	335232.0312500000
+battery_capacity_coulomb	54039.4570312500
+battery_capacity_milli_coulomb	54039456
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-35.08713
+% bat	50036.53515
+% batA	0.00000
+% batB	-100.00000
+% batC	-193.52677
+
+V bat
+68.46 V
+dt_ms	67408.00
+last_read_micros	4665092
+current_read_micros	4732500
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-3.3703999519
+calculte_milli_coulombs_transffred	539264.0000000000
+battery_capacity_coulomb	54047.0078125000
+battery_capacity_milli_coulomb	54047008
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-35.06272
+% bat	50043.52734
+% batA	0.00000
+% batB	-100.00000
+% batC	-140.84822
+
+dt_ms	39360.00
+last_read_micros	4732500
+current_read_micros	4771860
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-1.9680000305
+calculte_milli_coulombs_transffred	314880.0000000000
+battery_capacity_coulomb	54061.9843750000
+battery_capacity_milli_coulomb	54061984
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-35.01999
+% bat	50057.39062
+% batA	0.00000
+% batB	0.00000
+% batC	-36.38393
+
+dt_ms	41728.00
+last_read_micros	4771860
+current_read_micros	4813588
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0864000320
+calculte_milli_coulombs_transffred	333824.0312500000
+battery_capacity_coulomb	54049.1835937500
+battery_capacity_milli_coulomb	54049184
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-35.05661
+% bat	50045.53906
+% batA	0.00000
+% batB	-100.00000
+% batC	-125.66964
+
+dt_ms	42076.00
+last_read_micros	4813588
+current_read_micros	4855664
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1038000583
+calculte_milli_coulombs_transffred	336608.0312500000
+battery_capacity_coulomb	54055.3281250000
+battery_capacity_milli_coulomb	54055328
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-35.03830
+% bat	50051.22656
+% batA	0.00000
+% batB	0.00000
+% batC	-82.81250
+
+dt_ms	41744.00
+last_read_micros	4855664
+current_read_micros	4897408
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.0871999263
+calculte_milli_coulombs_transffred	333952.0312500000
+battery_capacity_coulomb	54064.2578125000
+battery_capacity_milli_coulomb	54064256
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-35.01083
+% bat	50059.49609
+% batA	0.00000
+% batB	0.00000
+% batC	-20.53572
+
+dt_ms	41732.00
+last_read_micros	4897408
+current_read_micros	4939140
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.0866000652
+calculte_milli_coulombs_transffred	333856.0312500000
+battery_capacity_coulomb	54070.5273437500
+battery_capacity_milli_coulomb	54070528
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.99252
+% bat	50065.30468
+% batA	0.00000
+% batB	0.00000
+% batC	23.21429
+
+dt_ms	41648.00
+last_read_micros	4939140
+current_read_micros	4980788
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.0824000835
+calculte_milli_coulombs_transffred	333184.0312500000
+battery_capacity_coulomb	54076.7031250000
+battery_capacity_milli_coulomb	54076704
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.97421
+% bat	50071.02343
+% batA	0.00000
+% batB	0.00000
+% batC	66.29464
+
+BAT PERCENT
+50.08 %
+dt_ms	76104.00
+last_read_micros	4980788
+current_read_micros	5056892
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-3.8052000999
+calculte_milli_coulombs_transffred	608832.0000000000
+battery_capacity_coulomb	54082.2070312500
+battery_capacity_milli_coulomb	54082208
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.95590
+% bat	50076.11718
+% batA	0.00000
+% batB	100.00000
+% batC	104.68750
+
+dt_ms	39184.00
+last_read_micros	5056892
+current_read_micros	5096076
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-1.9592000007
+calculte_milli_coulombs_transffred	313472.0000000000
+battery_capacity_coulomb	54101.2148437500
+battery_capacity_milli_coulomb	54101216
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.89791
+% bat	50093.71875
+% batA	0.00000
+% batB	-200.00000
+% batC	-219.86607
+
+dt_ms	42076.00
+last_read_micros	5096076
+current_read_micros	5138152
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1038000583
+calculte_milli_coulombs_transffred	336608.0312500000
+battery_capacity_coulomb	54087.0078125000
+battery_capacity_milli_coulomb	54087008
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.94064
+% bat	50080.56250
+% batA	0.00000
+% batB	100.00000
+% batC	138.16964
+
+dt_ms	41904.00
+last_read_micros	5138152
+current_read_micros	5180056
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0952000617
+calculte_milli_coulombs_transffred	335232.0312500000
+battery_capacity_coulomb	54095.9375000000
+battery_capacity_milli_coulomb	54095936
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.91622
+% bat	50088.82812
+% batA	0.00000
+% batB	200.00000
+% batC	200.44642
+
+dt_ms	41912.00
+last_read_micros	5180056
+current_read_micros	5221968
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0955998897
+calculte_milli_coulombs_transffred	335296.0312500000
+battery_capacity_coulomb	54103.4882812500
+battery_capacity_milli_coulomb	54103488
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.89181
+% bat	50095.82421
+% batA	0.00000
+% batB	-200.00000
+% batC	-204.01785
+
+dt_ms	42068.00
+last_read_micros	5221968
+current_read_micros	5264036
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1033999919
+calculte_milli_coulombs_transffred	336544.0312500000
+battery_capacity_coulomb	54111.1054687500
+battery_capacity_milli_coulomb	54111104
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.86740
+% bat	50102.87500
+% batA	0.00000
+% batB	-100.00000
+% batC	-150.89285
+
+dt_ms	42076.00
+last_read_micros	5264036
+current_read_micros	5306112
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1038000583
+calculte_milli_coulombs_transffred	336608.0312500000
+battery_capacity_coulomb	54119.9687500000
+battery_capacity_milli_coulomb	54119968
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.84298
+% bat	50111.08203
+% batA	0.00000
+% batB	0.00000
+% batC	-89.06250
+
+BAT PERCENT
+50.12 %
+dt_ms	76192.00
+last_read_micros	5306112
+current_read_micros	5382304
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-3.8095998764
+calculte_milli_coulombs_transffred	609536.0000000000
+battery_capacity_coulomb	54128.8945312500
+battery_capacity_milli_coulomb	54128896
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.81552
+% bat	50119.34765
+% batA	0.00000
+% batB	0.00000
+% batC	-26.78572
+
+dt_ms	39016.00
+last_read_micros	5382304
+current_read_micros	5421320
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-1.9507999420
+calculte_milli_coulombs_transffred	312128.0000000000
+battery_capacity_coulomb	54148.6093750000
+battery_capacity_milli_coulomb	54148608
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.75448
+% bat	50137.60156
+% batA	0.00000
+% batB	100.00000
+% batC	110.71429
+
+dt_ms	41912.00
+last_read_micros	5421320
+current_read_micros	5463232
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0955998897
+calculte_milli_coulombs_transffred	335296.0312500000
+battery_capacity_coulomb	54133.0546875000
+battery_capacity_milli_coulomb	54133056
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.80025
+% bat	50123.19921
+% batA	0.00000
+% batB	0.00000
+% batC	2.23214
+
+dt_ms	41556.00
+last_read_micros	5463232
+current_read_micros	5504788
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.0778000354
+calculte_milli_coulombs_transffred	332448.0312500000
+battery_capacity_coulomb	54140.6718750000
+battery_capacity_milli_coulomb	54140672
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.77889
+% bat	50130.25390
+% batA	0.00000
+% batB	0.00000
+% batC	55.35714
+
+dt_ms	41652.00
+last_read_micros	5504788
+current_read_micros	5546440
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0825998783
+calculte_milli_coulombs_transffred	333216.0312500000
+battery_capacity_coulomb	54145.4414062500
+battery_capacity_milli_coulomb	54145440
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.76363
+% bat	50134.66796
+% batA	0.00000
+% batB	0.00000
+% batC	88.61608
+
+dt_ms	41648.00
+last_read_micros	5546440
+current_read_micros	5588088
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0824000835
+calculte_milli_coulombs_transffred	333184.0312500000
+battery_capacity_coulomb	54150.9765625000
+battery_capacity_milli_coulomb	54150976
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.74837
+% bat	50139.78906
+% batA	0.00000
+% batB	100.00000
+% batC	127.23214
+
+dt_ms	41912.00
+last_read_micros	5588088
+current_read_micros	5630000
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0955998897
+calculte_milli_coulombs_transffred	335296.0312500000
+battery_capacity_coulomb	54156.4804687500
+battery_capacity_milli_coulomb	54156480
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.73006
+% bat	50144.89062
+% batA	0.00000
+% batB	100.00000
+% batC	165.62500
+
+BAT PERCENT
+50.15 %
+dt_ms	76372.00
+last_read_micros	5630000
+current_read_micros	5706372
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-3.8185998916
+calculte_milli_coulombs_transffred	610976.0000000000
+battery_capacity_coulomb	54164.0976562500
+battery_capacity_milli_coulomb	54164096
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.70565
+% bat	50151.93750
+% batA	0.00000
+% batB	200.00000
+% batC	218.75000
+
+dt_ms	39180.00
+last_read_micros	5706372
+current_read_micros	5745552
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-1.9590000152
+calculte_milli_coulombs_transffred	313440.0000000000
+battery_capacity_coulomb	54185.2460937500
+battery_capacity_milli_coulomb	54185248
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.64156
+% bat	50171.52343
+% batA	0.00000
+% batB	0.00000
+% batC	-90.84822
+
+dt_ms	41740.00
+last_read_micros	5745552
+current_read_micros	5787292
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0869998931
+calculte_milli_coulombs_transffred	333920.0312500000
+battery_capacity_coulomb	54171.0078125000
+battery_capacity_milli_coulomb	54171008
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.68428
+% bat	50158.33984
+% batA	0.00000
+% batB	-100.00000
+% batC	-190.17857
+
+dt_ms	42076.00
+last_read_micros	5787292
+current_read_micros	5829368
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1038000583
+calculte_milli_coulombs_transffred	336608.0312500000
+battery_capacity_coulomb	54177.2460937500
+battery_capacity_milli_coulomb	54177248
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.66597
+% bat	50164.12109
+% batA	0.00000
+% batB	-100.00000
+% batC	-146.65177
+
+dt_ms	42076.00
+last_read_micros	5829368
+current_read_micros	5871444
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.1038000583
+calculte_milli_coulombs_transffred	336608.0312500000
+battery_capacity_coulomb	54186.1757812500
+battery_capacity_milli_coulomb	54186176
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.63851
+% bat	50172.38671
+% batA	0.00000
+% batB	0.00000
+% batC	-84.37500
+
+dt_ms	41740.00
+last_read_micros	5871444
+current_read_micros	5913184
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0869998931
+calculte_milli_coulombs_transffred	333920.0312500000
+battery_capacity_coulomb	54195.1054687500
+battery_capacity_milli_coulomb	54195104
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.61104
+% bat	50180.64843
+% batA	0.00000
+% batB	0.00000
+% batC	-22.09822
+
+dt_ms	41736.00
+last_read_micros	5913184
+current_read_micros	5954920
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0868000984
+calculte_milli_coulombs_transffred	333888.0312500000
+battery_capacity_coulomb	54201.3437500000
+battery_capacity_milli_coulomb	54201344
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.59273
+% bat	50186.42968
+% batA	0.00000
+% batB	0.00000
+% batC	21.42857
+
+BAT PERCENT
+50.19 %
+dt_ms	76088.00
+last_read_micros	5954920
+current_read_micros	6031008
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-3.8043999671
+calculte_milli_coulombs_transffred	608704.0000000000
+battery_capacity_coulomb	54207.5507812500
+battery_capacity_milli_coulomb	54207552
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.57442
+% bat	50192.17578
+% batA	0.00000
+% batB	0.00000
+% batC	64.73214
+
+dt_ms	38928.00
+last_read_micros	6031008
+current_read_micros	6069936
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-1.9464000701
+calculte_milli_coulombs_transffred	311424.0000000000
+battery_capacity_coulomb	54226.4335937500
+battery_capacity_milli_coulomb	54226432
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.51643
+% bat	50209.66015
+% batA	0.00000
+% batB	100.00000
+% batC	196.42857
+
+dt_ms	41916.00
+last_read_micros	6069936
+current_read_micros	6111852
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0957999229
+calculte_milli_coulombs_transffred	335328.0312500000
+battery_capacity_coulomb	54210.1757812500
+battery_capacity_milli_coulomb	54210176
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.56526
+% bat	50194.60546
+% batA	0.00000
+% batB	0.00000
+% batC	83.03572
+
+dt_ms	41640.00
+last_read_micros	6111852
+current_read_micros	6153492
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0820000171
+calculte_milli_coulombs_transffred	333120.0312500000
+battery_capacity_coulomb	54217.8242187500
+battery_capacity_milli_coulomb	54217824
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.54390
+% bat	50201.69140
+% batA	0.00000
+% batB	100.00000
+% batC	136.38392
+
+dt_ms	41904.00
+last_read_micros	6153492
+current_read_micros	6195396
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0952000617
+calculte_milli_coulombs_transffred	335232.0312500000
+battery_capacity_coulomb	54223.2656250000
+battery_capacity_milli_coulomb	54223264
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.52559
+% bat	50206.72656
+% batA	0.00000
+% batB	100.00000
+% batC	174.33035
+
+dt_ms	41908.00
+last_read_micros	6195396
+current_read_micros	6237304
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0954000949
+calculte_milli_coulombs_transffred	335264.0312500000
+battery_capacity_coulomb	54230.8164062500
+battery_capacity_milli_coulomb	54230816
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.50423
+% bat	50213.71875
+% batA	0.00000
+% batB	200.00000
+% batC	227.00892
+
+dt_ms	41908.00
+last_read_micros	6237304
+current_read_micros	6279212
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0954000949
+calculte_milli_coulombs_transffred	335264.0312500000
+battery_capacity_coulomb	54238.3984375000
+battery_capacity_milli_coulomb	54238400
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.47981
+% bat	50220.74218
+% batA	0.00000
+% batB	-100.00000
+% batC	-177.23214
+
+BAT PERCENT
+50.23 %
+dt_ms	76528.00
+last_read_micros	6279212
+current_read_micros	6355740
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-3.8263999938
+calculte_milli_coulombs_transffred	612224.0000000000
+battery_capacity_coulomb	54245.9843750000
+battery_capacity_milli_coulomb	54245984
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.45845
+% bat	50227.76562
+% batA	0.00000
+% batB	-100.00000
+% batC	-124.33036
+
+dt_ms	39352.00
+last_read_micros	6355740
+current_read_micros	6395092
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-1.9675999641
+calculte_milli_coulombs_transffred	314816.0000000000
+battery_capacity_coulomb	54268.3828125000
+battery_capacity_milli_coulomb	54268384
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.38825
+% bat	50248.50390
+% batA	0.00000
+% batB	0.00000
+% batC	31.91964
+
+dt_ms	41652.00
+last_read_micros	6395092
+current_read_micros	6436744
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0825998783
+calculte_milli_coulombs_transffred	333216.0312500000
+battery_capacity_coulomb	54255.5195312500
+battery_capacity_milli_coulomb	54255520
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.42793
+% bat	50236.58984
+% batA	0.00000
+% batB	0.00000
+% batC	-57.81250
+
+dt_ms	41732.00
+last_read_micros	6436744
+current_read_micros	6478476
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0866000652
+calculte_milli_coulombs_transffred	333856.0312500000
+battery_capacity_coulomb	54261.0546875000
+battery_capacity_milli_coulomb	54261056
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.40962
+% bat	50241.71484
+% batA	0.00000
+% batB	0.00000
+% batC	-19.19643
+
+dt_ms	41736.00
+last_read_micros	6478476
+current_read_micros	6520212
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0868000984
+calculte_milli_coulombs_transffred	333888.0312500000
+battery_capacity_coulomb	54267.2304687500
+battery_capacity_milli_coulomb	54267232
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.39131
+% bat	50247.43750
+% batA	0.00000
+% batB	0.00000
+% batC	23.88393
+
+dt_ms	41652.00
+last_read_micros	6520212
+current_read_micros	6561864
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0825998783
+calculte_milli_coulombs_transffred	333216.0312500000
+battery_capacity_coulomb	54273.4414062500
+battery_capacity_milli_coulomb	54273440
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.37300
+% bat	50253.18359
+% batA	0.00000
+% batB	0.00000
+% batC	67.18750
+
+dt_ms	41648.00
+last_read_micros	6561864
+current_read_micros	6603512
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0824000835
+calculte_milli_coulombs_transffred	333184.0312500000
+battery_capacity_coulomb	54278.9765625000
+battery_capacity_milli_coulomb	54278976
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.35774
+% bat	50258.30859
+% batA	0.00000
+% batB	100.00000
+% batC	105.80358
+
+BAT PERCENT
+50.26 %
+dt_ms	76364.00
+last_read_micros	6603512
+current_read_micros	6679876
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-3.8181999206
+calculte_milli_coulombs_transffred	610912.0000000000
+battery_capacity_coulomb	54284.4804687500
+battery_capacity_milli_coulomb	54284480
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.33943
+% bat	50263.41015
+% batA	0.00000
+% batB	100.00000
+% batC	144.19642
+
+dt_ms	39196.00
+last_read_micros	6679876
+current_read_micros	6719072
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-1.9597999572
+calculte_milli_coulombs_transffred	313568.0000000000
+battery_capacity_coulomb	54305.5664062500
+battery_capacity_milli_coulomb	54305568
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.27534
+% bat	50282.93359
+% batA	0.00000
+% batB	-100.00000
+% batC	-165.84822
+
+dt_ms	42064.00
+last_read_micros	6719072
+current_read_micros	6761136
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1031999588
+calculte_milli_coulombs_transffred	336512.0312500000
+battery_capacity_coulomb	54291.4570312500
+battery_capacity_milli_coulomb	54291456
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.31806
+% bat	50269.86718
+% batA	0.00000
+% batB	100.00000
+% batC	192.85714
+
+dt_ms	41904.00
+last_read_micros	6761136
+current_read_micros	6803040
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.0952000617
+calculte_milli_coulombs_transffred	335232.0312500000
+battery_capacity_coulomb	54300.2890625000
+battery_capacity_milli_coulomb	54300288
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.29059
+% bat	50278.04687
+% batA	0.00000
+% batB	-200.00000
+% batC	-202.67857
+
+dt_ms	42076.00
+last_read_micros	6803040
+current_read_micros	6845116
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.1038000583
+calculte_milli_coulombs_transffred	336608.0312500000
+battery_capacity_coulomb	54307.8398437500
+battery_capacity_milli_coulomb	54307840
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.26923
+% bat	50285.03906
+% batA	0.00000
+% batB	-100.00000
+% batC	-150.00000
+
+dt_ms	42076.00
+last_read_micros	6845116
+current_read_micros	6887192
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1038000583
+calculte_milli_coulombs_transffred	336608.0312500000
+battery_capacity_coulomb	54316.7695312500
+battery_capacity_milli_coulomb	54316768
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.24177
+% bat	50293.30468
+% batA	0.00000
+% batB	0.00000
+% batC	-87.72322
+
+dt_ms	41736.00
+last_read_micros	6887192
+current_read_micros	6928928
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.0868000984
+calculte_milli_coulombs_transffred	333888.0312500000
+battery_capacity_coulomb	54325.6953125000
+battery_capacity_milli_coulomb	54325696
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.21430
+% bat	50301.57031
+% batA	0.00000
+% batB	0.00000
+% batC	-25.44643
+
+BAT PERCENT
+50.31 %
+dt_ms	76168.00
+last_read_micros	6928928
+current_read_micros	7005096
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-3.8083999633
+calculte_milli_coulombs_transffred	609344.0000000000
+battery_capacity_coulomb	54331.9023437500
+battery_capacity_milli_coulomb	54331904
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.19599
+% bat	50307.32031
+% batA	0.00000
+% batB	0.00000
+% batC	17.85714
+
+dt_ms	38928.00
+last_read_micros	7005096
+current_read_micros	7044024
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-1.9464000701
+calculte_milli_coulombs_transffred	311424.0000000000
+battery_capacity_coulomb	54351.4257812500
+battery_capacity_milli_coulomb	54351424
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.13495
+% bat	50325.39062
+% batA	0.00000
+% batB	100.00000
+% batC	154.01785
+
+dt_ms	41900.00
+last_read_micros	7044024
+current_read_micros	7085924
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0950000286
+calculte_milli_coulombs_transffred	335200.0312500000
+battery_capacity_coulomb	54335.1679687500
+battery_capacity_milli_coulomb	54335168
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.18378
+% bat	50310.34375
+% batA	0.00000
+% batB	0.00000
+% batC	40.62500
+
+dt_ms	41652.00
+last_read_micros	7085924
+current_read_micros	7127576
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.0825998783
+calculte_milli_coulombs_transffred	333216.0312500000
+battery_capacity_coulomb	54342.6875000000
+battery_capacity_milli_coulomb	54342688
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.16242
+% bat	50317.30078
+% batA	0.00000
+% batB	0.00000
+% batC	93.08036
+
+dt_ms	41652.00
+last_read_micros	7127576
+current_read_micros	7169228
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0825998783
+calculte_milli_coulombs_transffred	333216.0312500000
+battery_capacity_coulomb	54348.2226562500
+battery_capacity_milli_coulomb	54348224
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.14411
+% bat	50322.43359
+% batA	0.00000
+% batB	100.00000
+% batC	131.69642
+
+dt_ms	41904.00
+last_read_micros	7169228
+current_read_micros	7211132
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0952000617
+calculte_milli_coulombs_transffred	335232.0312500000
+battery_capacity_coulomb	54353.7617187500
+battery_capacity_milli_coulomb	54353760
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.12885
+% bat	50327.55468
+% batA	0.00000
+% batB	100.00000
+% batC	170.31250
+
+dt_ms	41912.00
+last_read_micros	7211132
+current_read_micros	7253044
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0955998897
+calculte_milli_coulombs_transffred	335296.0312500000
+battery_capacity_coulomb	54361.3125000000
+battery_capacity_milli_coulomb	54361312
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.10443
+% bat	50334.55078
+% batA	0.00000
+% batB	200.00000
+% batC	222.99107
+
+BAT PERCENT
+50.34 %
+dt_ms	76368.00
+last_read_micros	7253044
+current_read_micros	7329412
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-3.8183999061
+calculte_milli_coulombs_transffred	610944.0000000000
+battery_capacity_coulomb	54368.9296875000
+battery_capacity_milli_coulomb	54368928
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.08307
+% bat	50341.59765
+% batA	0.00000
+% batB	-100.00000
+% batC	-181.02677
+
+dt_ms	39356.00
+last_read_micros	7329412
+current_read_micros	7368768
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-1.9678000450
+calculte_milli_coulombs_transffred	314848.0000000000
+battery_capacity_coulomb	54390.0468750000
+battery_capacity_milli_coulomb	54390048
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.01593
+% bat	50361.15234
+% batA	0.00000
+% batB	0.00000
+% batC	-33.70536
+
+dt_ms	41728.00
+last_read_micros	7368768
+current_read_micros	7410496
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.0864000320
+calculte_milli_coulombs_transffred	333824.0312500000
+battery_capacity_coulomb	54377.2148437500
+battery_capacity_milli_coulomb	54377216
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.05560
+% bat	50349.27343
+% batA	0.00000
+% batB	-100.00000
+% batC	-123.21429
+
+dt_ms	42080.00
+last_read_micros	7410496
+current_read_micros	7452576
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1040000915
+calculte_milli_coulombs_transffred	336640.0312500000
+battery_capacity_coulomb	54383.3593750000
+battery_capacity_milli_coulomb	54383360
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.03729
+% bat	50354.96093
+% batA	0.00000
+% batB	0.00000
+% batC	-80.35714
+
+dt_ms	41736.00
+last_read_micros	7452576
+current_read_micros	7494312
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.0868000984
+calculte_milli_coulombs_transffred	333888.0312500000
+battery_capacity_coulomb	54392.3203125000
+battery_capacity_milli_coulomb	54392320
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-34.00983
+% bat	50363.25781
+% batA	0.00000
+% batB	0.00000
+% batC	-17.85714
+
+dt_ms	41736.00
+last_read_micros	7494312
+current_read_micros	7536048
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.0868000984
+calculte_milli_coulombs_transffred	333888.0312500000
+battery_capacity_coulomb	54398.5273437500
+battery_capacity_milli_coulomb	54398528
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.99151
+% bat	50369.00390
+% batA	0.00000
+% batB	0.00000
+% batC	25.44643
+
+dt_ms	41648.00
+last_read_micros	7536048
+current_read_micros	7577696
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0824000835
+calculte_milli_coulombs_transffred	333184.0312500000
+battery_capacity_coulomb	54404.7343750000
+battery_capacity_milli_coulomb	54404736
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.97320
+% bat	50374.75781
+% batA	0.00000
+% batB	0.00000
+% batC	68.75000
+
+BAT PERCENT
+50.38 %
+dt_ms	76100.00
+last_read_micros	7577696
+current_read_micros	7653796
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-3.8050001144
+calculte_milli_coulombs_transffred	608800.0000000000
+battery_capacity_coulomb	54410.2382812500
+battery_capacity_milli_coulomb	54410240
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.95489
+% bat	50379.85156
+% batA	0.00000
+% batB	100.00000
+% batC	107.14286
+
+dt_ms	39188.00
+last_read_micros	7653796
+current_read_micros	7692984
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-1.9593999862
+calculte_milli_coulombs_transffred	313504.0000000000
+battery_capacity_coulomb	54429.2148437500
+battery_capacity_milli_coulomb	54429216
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.89691
+% bat	50397.42187
+% batA	0.00000
+% batB	-200.00000
+% batC	-217.63392
+
+dt_ms	42076.00
+last_read_micros	7692984
+current_read_micros	7735060
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1038000583
+calculte_milli_coulombs_transffred	336608.0312500000
+battery_capacity_coulomb	54415.0390625000
+battery_capacity_milli_coulomb	54415040
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.93964
+% bat	50384.30078
+% batA	0.00000
+% batB	100.00000
+% batC	140.62500
+
+dt_ms	41904.00
+last_read_micros	7735060
+current_read_micros	7776964
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.0952000617
+calculte_milli_coulombs_transffred	335232.0312500000
+battery_capacity_coulomb	54423.9687500000
+battery_capacity_milli_coulomb	54423968
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.91522
+% bat	50392.56250
+% batA	0.00000
+% batB	200.00000
+% batC	202.90177
+
+dt_ms	41920.00
+last_read_micros	7776964
+current_read_micros	7818884
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0959999561
+calculte_milli_coulombs_transffred	335360.0312500000
+battery_capacity_coulomb	54431.5195312500
+battery_capacity_milli_coulomb	54431520
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.89080
+% bat	50399.55468
+% batA	0.00000
+% batB	-200.00000
+% batC	-201.56250
+
+dt_ms	42060.00
+last_read_micros	7818884
+current_read_micros	7860944
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.1029999256
+calculte_milli_coulombs_transffred	336480.0312500000
+battery_capacity_coulomb	54439.1992187500
+battery_capacity_milli_coulomb	54439200
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.86639
+% bat	50406.66406
+% batA	0.00000
+% batB	-100.00000
+% batC	-147.99107
+
+dt_ms	42068.00
+last_read_micros	7860944
+current_read_micros	7903012
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.1033999919
+calculte_milli_coulombs_transffred	336544.0312500000
+battery_capacity_coulomb	54448.0000000000
+battery_capacity_milli_coulomb	54448000
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.83892
+% bat	50414.81250
+% batA	0.00000
+% batB	0.00000
+% batC	-86.60714
+
+BAT PERCENT
+50.42 %
+dt_ms	76176.00
+last_read_micros	7903012
+current_read_micros	7979188
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-3.8087999343
+calculte_milli_coulombs_transffred	609408.0000000000
+battery_capacity_coulomb	54456.8632812500
+battery_capacity_milli_coulomb	54456864
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.81451
+% bat	50423.01953
+% batA	0.00000
+% batB	0.00000
+% batC	-24.77679
+
+dt_ms	39016.00
+last_read_micros	7979188
+current_read_micros	8018204
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-1.9507999420
+calculte_milli_coulombs_transffred	312128.0000000000
+battery_capacity_coulomb	54476.4492187500
+battery_capacity_milli_coulomb	54476448
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.75347
+% bat	50441.15625
+% batA	0.00000
+% batB	100.00000
+% batC	111.83036
+
+dt_ms	41904.00
+last_read_micros	8018204
+current_read_micros	8060108
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.0952000617
+calculte_milli_coulombs_transffred	335232.0312500000
+battery_capacity_coulomb	54460.8945312500
+battery_capacity_milli_coulomb	54460896
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.80230
+% bat	50426.75781
+% batA	0.00000
+% batB	0.00000
+% batC	3.34821
+
+dt_ms	41564.00
+last_read_micros	8060108
+current_read_micros	8101672
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0782001018
+calculte_milli_coulombs_transffred	332512.0312500000
+battery_capacity_coulomb	54468.4492187500
+battery_capacity_milli_coulomb	54468448
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.77788
+% bat	50433.75000
+% batA	0.00000
+% batB	0.00000
+% batC	56.02679
+
+dt_ms	41660.00
+last_read_micros	8101672
+current_read_micros	8143332
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0829999446
+calculte_milli_coulombs_transffred	333280.0312500000
+battery_capacity_coulomb	54473.2812500000
+battery_capacity_milli_coulomb	54473280
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.76263
+% bat	50438.22265
+% batA	0.00000
+% batB	0.00000
+% batC	89.73214
+
+dt_ms	41648.00
+last_read_micros	8143332
+current_read_micros	8184980
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0824000835
+calculte_milli_coulombs_transffred	333184.0312500000
+battery_capacity_coulomb	54478.8789062500
+battery_capacity_milli_coulomb	54478880
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.74737
+% bat	50443.40625
+% batA	0.00000
+% batB	100.00000
+% batC	128.79464
+
+dt_ms	41900.00
+last_read_micros	8184980
+current_read_micros	8226880
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0950000286
+calculte_milli_coulombs_transffred	335200.0312500000
+battery_capacity_coulomb	54484.3828125000
+battery_capacity_milli_coulomb	54484384
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.72906
+% bat	50448.50000
+% batA	0.00000
+% batB	100.00000
+% batC	167.18750
+
+BAT PERCENT
+50.45 %
+dt_ms	76364.00
+last_read_micros	8226880
+current_read_micros	8303244
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-3.8181999206
+calculte_milli_coulombs_transffred	610912.0000000000
+battery_capacity_coulomb	54491.9023437500
+battery_capacity_milli_coulomb	54491904
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.70769
+% bat	50455.46875
+% batA	0.00000
+% batB	200.00000
+% batC	219.64285
+
+dt_ms	39184.00
+last_read_micros	8303244
+current_read_micros	8342428
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-1.9592000007
+calculte_milli_coulombs_transffred	313472.0000000000
+battery_capacity_coulomb	54512.9921875000
+battery_capacity_milli_coulomb	54512992
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.64360
+% bat	50474.99609
+% batA	0.00000
+% batB	0.00000
+% batC	-90.40179
+
+dt_ms	41736.00
+last_read_micros	8342428
+current_read_micros	8384164
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.0868000984
+calculte_milli_coulombs_transffred	333888.0312500000
+battery_capacity_coulomb	54498.7851562500
+battery_capacity_milli_coulomb	54498784
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.68633
+% bat	50461.83593
+% batA	0.00000
+% batB	-100.00000
+% batC	-189.50892
+
+dt_ms	42072.00
+last_read_micros	8384164
+current_read_micros	8426236
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1036000251
+calculte_milli_coulombs_transffred	336576.0312500000
+battery_capacity_coulomb	54504.9921875000
+battery_capacity_milli_coulomb	54504992
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.66802
+% bat	50467.58203
+% batA	0.00000
+% batB	-100.00000
+% batC	-146.20535
+
+dt_ms	42068.00
+last_read_micros	8426236
+current_read_micros	8468304
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1033999919
+calculte_milli_coulombs_transffred	336544.0312500000
+battery_capacity_coulomb	54513.8867187500
+battery_capacity_milli_coulomb	54513888
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.64055
+% bat	50475.82421
+% batA	0.00000
+% batB	0.00000
+% batC	-84.15179
+
+dt_ms	41752.00
+last_read_micros	8468304
+current_read_micros	8510056
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0875999927
+calculte_milli_coulombs_transffred	334016.0312500000
+battery_capacity_coulomb	54522.7539062500
+battery_capacity_milli_coulomb	54522752
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.61309
+% bat	50484.02734
+% batA	0.00000
+% batB	0.00000
+% batC	-22.32143
+
+dt_ms	41732.00
+last_read_micros	8510056
+current_read_micros	8551788
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0866000652
+calculte_milli_coulombs_transffred	333856.0312500000
+battery_capacity_coulomb	54529.0898437500
+battery_capacity_milli_coulomb	54529088
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.59172
+% bat	50489.89453
+% batA	0.00000
+% batB	0.00000
+% batC	21.87500
+
+BAT PERCENT
+50.50 %
+dt_ms	76112.00
+last_read_micros	8551788
+current_read_micros	8627900
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-3.8055999755
+calculte_milli_coulombs_transffred	608896.0000000000
+battery_capacity_coulomb	54535.2656250000
+battery_capacity_milli_coulomb	54535264
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.57341
+% bat	50495.61718
+% batA	0.00000
+% batB	0.00000
+% batC	64.95536
+
+dt_ms	38932.00
+last_read_micros	8627900
+current_read_micros	8666832
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-1.9465999603
+calculte_milli_coulombs_transffred	311456.0000000000
+battery_capacity_coulomb	54554.3359375000
+battery_capacity_milli_coulomb	54554336
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.51543
+% bat	50513.27343
+% batA	0.00000
+% batB	100.00000
+% batC	197.99107
+
+dt_ms	41912.00
+last_read_micros	8666832
+current_read_micros	8708744
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0955998897
+calculte_milli_coulombs_transffred	335296.0312500000
+battery_capacity_coulomb	54538.1132812500
+battery_capacity_milli_coulomb	54538112
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.56426
+% bat	50498.25390
+% batA	0.00000
+% batB	0.00000
+% batC	84.82143
+
+dt_ms	41644.00
+last_read_micros	8708744
+current_read_micros	8750388
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0822000503
+calculte_milli_coulombs_transffred	333152.0312500000
+battery_capacity_coulomb	54545.7265625000
+battery_capacity_milli_coulomb	54545728
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.54289
+% bat	50505.30078
+% batA	0.00000
+% batB	100.00000
+% batC	137.94642
+
+dt_ms	41892.00
+last_read_micros	8750388
+current_read_micros	8792280
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0945999622
+calculte_milli_coulombs_transffred	335136.0312500000
+battery_capacity_coulomb	54551.1992187500
+battery_capacity_milli_coulomb	54551200
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.52458
+% bat	50510.36718
+% batA	0.00000
+% batB	100.00000
+% batC	176.11607
+
+dt_ms	41924.00
+last_read_micros	8792280
+current_read_micros	8834204
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.0961999893
+calculte_milli_coulombs_transffred	335392.0312500000
+battery_capacity_coulomb	54558.6562500000
+battery_capacity_milli_coulomb	54558656
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.50322
+% bat	50517.27734
+% batA	0.00000
+% batB	200.00000
+% batC	228.12500
+
+dt_ms	41896.00
+last_read_micros	8834204
+current_read_micros	8876100
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0947999954
+calculte_milli_coulombs_transffred	335168.0312500000
+battery_capacity_coulomb	54566.3671875000
+battery_capacity_milli_coulomb	54566368
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.47880
+% bat	50524.41796
+% batA	0.00000
+% batB	-100.00000
+% batC	-175.22322
+
+BAT PERCENT
+50.53 %
+dt_ms	76540.00
+last_read_micros	8876100
+current_read_micros	8952640
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-3.8269998550
+calculte_milli_coulombs_transffred	612320.0000000000
+battery_capacity_coulomb	54573.8554687500
+battery_capacity_milli_coulomb	54573856
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.45744
+% bat	50531.34375
+% batA	0.00000
+% batB	-100.00000
+% batC	-122.99108
+
+dt_ms	39344.00
+last_read_micros	8952640
+current_read_micros	8991984
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-1.9672000885
+calculte_milli_coulombs_transffred	314752.0000000000
+battery_capacity_coulomb	54596.3515625000
+battery_capacity_milli_coulomb	54596352
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.38725
+% bat	50552.17578
+% batA	0.00000
+% batB	0.00000
+% batC	33.92857
+
+dt_ms	41660.00
+last_read_micros	8991984
+current_read_micros	9033644
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0829999446
+calculte_milli_coulombs_transffred	333280.0312500000
+battery_capacity_coulomb	54583.4257812500
+battery_capacity_milli_coulomb	54583424
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.42692
+% bat	50540.20703
+% batA	0.00000
+% batB	0.00000
+% batC	-56.25000
+
+dt_ms	41736.00
+last_read_micros	9033644
+current_read_micros	9075380
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0868000984
+calculte_milli_coulombs_transffred	333888.0312500000
+battery_capacity_coulomb	54589.0234375000
+battery_capacity_milli_coulomb	54589024
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.40861
+% bat	50545.39453
+% batA	0.00000
+% batB	0.00000
+% batC	-17.18750
+
+dt_ms	41724.00
+last_read_micros	9075380
+current_read_micros	9117104
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0861999988
+calculte_milli_coulombs_transffred	333792.0312500000
+battery_capacity_coulomb	54595.2304687500
+battery_capacity_milli_coulomb	54595232
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.39030
+% bat	50551.14062
+% batA	0.00000
+% batB	0.00000
+% batC	26.11607
+
+dt_ms	41660.00
+last_read_micros	9117104
+current_read_micros	9158764
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0829999446
+calculte_milli_coulombs_transffred	333280.0312500000
+battery_capacity_coulomb	54601.3437500000
+battery_capacity_milli_coulomb	54601344
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.37199
+% bat	50556.80078
+% batA	0.00000
+% batB	0.00000
+% batC	68.75000
+
+dt_ms	41648.00
+last_read_micros	9158764
+current_read_micros	9200412
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0824000835
+calculte_milli_coulombs_transffred	333184.0312500000
+battery_capacity_coulomb	54606.9453125000
+battery_capacity_milli_coulomb	54606944
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.35673
+% bat	50561.98437
+% batA	0.00000
+% batB	100.00000
+% batC	107.81250
+
+BAT PERCENT
+50.57 %
+dt_ms	76380.00
+last_read_micros	9200412
+current_read_micros	9276792
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-3.8190000534
+calculte_milli_coulombs_transffred	611040.0000000000
+battery_capacity_coulomb	54612.4492187500
+battery_capacity_milli_coulomb	54612448
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.33842
+% bat	50567.08203
+% batA	0.00000
+% batB	100.00000
+% batC	146.20535
+
+dt_ms	39184.00
+last_read_micros	9276792
+current_read_micros	9315976
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-1.9592000007
+calculte_milli_coulombs_transffred	313472.0000000000
+battery_capacity_coulomb	54633.6640625000
+battery_capacity_milli_coulomb	54633664
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.27433
+% bat	50586.72656
+% batA	0.00000
+% batB	-100.00000
+% batC	-162.94642
+
+dt_ms	42076.00
+last_read_micros	9315976
+current_read_micros	9358052
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1038000583
+calculte_milli_coulombs_transffred	336608.0312500000
+battery_capacity_coulomb	54619.4570312500
+battery_capacity_milli_coulomb	54619456
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.31706
+% bat	50573.56640
+% batA	0.00000
+% batB	100.00000
+% batC	195.08927
+
+dt_ms	41904.00
+last_read_micros	9358052
+current_read_micros	9399956
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0952000617
+calculte_milli_coulombs_transffred	335232.0312500000
+battery_capacity_coulomb	54628.3828125000
+battery_capacity_milli_coulomb	54628384
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.28959
+% bat	50581.83593
+% batA	0.00000
+% batB	-100.00000
+% batC	-199.77677
+
+dt_ms	42076.00
+last_read_micros	9399956
+current_read_micros	9442032
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.1038000583
+calculte_milli_coulombs_transffred	336608.0312500000
+battery_capacity_coulomb	54635.9375000000
+battery_capacity_milli_coulomb	54635936
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.26823
+% bat	50588.82812
+% batA	0.00000
+% batB	-100.00000
+% batC	-147.09822
+
+dt_ms	42076.00
+last_read_micros	9442032
+current_read_micros	9484108
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1038000583
+calculte_milli_coulombs_transffred	336608.0312500000
+battery_capacity_coulomb	54644.8632812500
+battery_capacity_milli_coulomb	54644864
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.24076
+% bat	50597.09375
+% batA	0.00000
+% batB	0.00000
+% batC	-84.82143
+
+dt_ms	41732.00
+last_read_micros	9484108
+current_read_micros	9525840
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0866000652
+calculte_milli_coulombs_transffred	333856.0312500000
+battery_capacity_coulomb	54653.7929687500
+battery_capacity_milli_coulomb	54653792
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.21329
+% bat	50605.36718
+% batA	0.00000
+% batB	0.00000
+% batC	-22.54464
+
+BAT PERCENT
+50.61 %
+dt_ms	76164.00
+last_read_micros	9525840
+current_read_micros	9602004
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-3.8081998825
+calculte_milli_coulombs_transffred	609312.0000000000
+battery_capacity_coulomb	54659.9687500000
+battery_capacity_milli_coulomb	54659968
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.19498
+% bat	50611.08203
+% batA	0.00000
+% batB	0.00000
+% batC	20.53572
+
+dt_ms	38928.00
+last_read_micros	9602004
+current_read_micros	9640932
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-1.9464000701
+calculte_milli_coulombs_transffred	311424.0000000000
+battery_capacity_coulomb	54679.4570312500
+battery_capacity_milli_coulomb	54679456
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.13394
+% bat	50629.12500
+% batA	0.00000
+% batB	100.00000
+% batC	156.47322
+
+dt_ms	41904.00
+last_read_micros	9640932
+current_read_micros	9682836
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0952000617
+calculte_milli_coulombs_transffred	335232.0312500000
+battery_capacity_coulomb	54663.1992187500
+battery_capacity_milli_coulomb	54663200
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.18277
+% bat	50614.07421
+% batA	0.00000
+% batB	0.00000
+% batC	43.08036
+
+dt_ms	41660.00
+last_read_micros	9682836
+current_read_micros	9724496
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0829999446
+calculte_milli_coulombs_transffred	333280.0312500000
+battery_capacity_coulomb	54670.7539062500
+battery_capacity_milli_coulomb	54670752
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.16141
+% bat	50621.06640
+% batA	0.00000
+% batB	0.00000
+% batC	95.75893
+
+dt_ms	41640.00
+last_read_micros	9724496
+current_read_micros	9766136
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0820000171
+calculte_milli_coulombs_transffred	333120.0312500000
+battery_capacity_coulomb	54676.3515625000
+battery_capacity_milli_coulomb	54676352
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.14310
+% bat	50626.25000
+% batA	0.00000
+% batB	100.00000
+% batC	134.82142
+
+dt_ms	41916.00
+last_read_micros	9766136
+current_read_micros	9808052
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.0957999229
+calculte_milli_coulombs_transffred	335328.0312500000
+battery_capacity_coulomb	54681.7929687500
+battery_capacity_milli_coulomb	54681792
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.12784
+% bat	50631.28906
+% batA	0.00000
+% batB	100.00000
+% batC	172.76785
+
+dt_ms	41896.00
+last_read_micros	9808052
+current_read_micros	9849948
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0947999954
+calculte_milli_coulombs_transffred	335168.0312500000
+battery_capacity_coulomb	54689.4414062500
+battery_capacity_milli_coulomb	54689440
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.10343
+% bat	50638.37109
+% batA	0.00000
+% batB	200.00000
+% batC	226.11607
+
+BAT PERCENT
+50.64 %
+dt_ms	76360.00
+last_read_micros	9849948
+current_read_micros	9926308
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-3.8180000305
+calculte_milli_coulombs_transffred	610880.0000000000
+battery_capacity_coulomb	54696.9296875000
+battery_capacity_milli_coulomb	54696928
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.08206
+% bat	50645.30468
+% batA	0.00000
+% batB	-100.00000
+% batC	-178.79464
+
+dt_ms	39348.00
+last_read_micros	9926308
+current_read_micros	9965656
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-1.9673999786
+calculte_milli_coulombs_transffred	314784.0000000000
+battery_capacity_coulomb	54717.9843750000
+battery_capacity_milli_coulomb	54717984
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.01797
+% bat	50664.79687
+% batA	0.00000
+% batB	0.00000
+% batC	-31.91964
+
+dt_ms	41744.00
+last_read_micros	9965656
+current_read_micros	10007400
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0871999263
+calculte_milli_coulombs_transffred	333952.0312500000
+battery_capacity_coulomb	54705.0898437500
+battery_capacity_milli_coulomb	54705088
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.05459
+% bat	50652.86328
+% batA	0.00000
+% batB	-100.00000
+% batC	-121.87500
+
+dt_ms	42164.00
+last_read_micros	10007400
+current_read_micros	10049564
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.1082000732
+calculte_milli_coulombs_transffred	337312.0312500000
+battery_capacity_coulomb	54711.3593750000
+battery_capacity_milli_coulomb	54711360
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.03628
+% bat	50658.66406
+% batA	0.00000
+% batB	0.00000
+% batC	-78.12500
+
+dt_ms	41900.00
+last_read_micros	10049564
+current_read_micros	10091464
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.0950000286
+calculte_milli_coulombs_transffred	335200.0312500000
+battery_capacity_coulomb	54720.9921875000
+battery_capacity_milli_coulomb	54720992
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-33.00882
+% bat	50667.58593
+% batA	0.00000
+% batB	0.00000
+% batC	-10.93750
+
+dt_ms	41904.00
+last_read_micros	10091464
+current_read_micros	10133368
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0952000617
+calculte_milli_coulombs_transffred	335232.0312500000
+battery_capacity_coulomb	54728.5117187500
+battery_capacity_milli_coulomb	54728512
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-32.98440
+% bat	50674.54687
+% batA	0.00000
+% batB	0.00000
+% batC	41.51786
+
+dt_ms	41820.00
+last_read_micros	10133368
+current_read_micros	10175188
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0910000801
+calculte_milli_coulombs_transffred	334560.0312500000
+battery_capacity_coulomb	54736.0625000000
+battery_capacity_milli_coulomb	54736064
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-32.95999
+% bat	50681.54296
+% batA	0.00000
+% batB	0.00000
+% batC	94.19643
+
+BAT PERCENT
+50.69 %
+dt_ms	76256.00
+last_read_micros	10175188
+current_read_micros	10251444
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-3.8127999305
+calculte_milli_coulombs_transffred	610048.0000000000
+battery_capacity_coulomb	54742.9453125000
+battery_capacity_milli_coulomb	54742944
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-32.94168
+% bat	50687.90625
+% batA	0.00000
+% batB	100.00000
+% batC	142.18750
+
+dt_ms	39364.00
+last_read_micros	10251444
+current_read_micros	10290808
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-1.9681999206
+calculte_milli_coulombs_transffred	314912.0000000000
+battery_capacity_coulomb	54763.1679687500
+battery_capacity_milli_coulomb	54763168
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-32.87759
+% bat	50706.63281
+% batA	0.00000
+% batB	-100.00000
+% batC	-173.88392
+
+dt_ms	42236.00
+last_read_micros	10290808
+current_read_micros	10333044
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1117999553
+calculte_milli_coulombs_transffred	337888.0312500000
+battery_capacity_coulomb	54750.3984375000
+battery_capacity_milli_coulomb	54750400
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-32.91726
+% bat	50694.81640
+% batA	0.00000
+% batB	100.00000
+% batC	194.19642
+
+dt_ms	42076.00
+last_read_micros	10333044
+current_read_micros	10375120
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1038000583
+calculte_milli_coulombs_transffred	336608.0312500000
+battery_capacity_coulomb	54760.6093750000
+battery_capacity_milli_coulomb	54760608
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-32.88674
+% bat	50704.26562
+% batA	0.00000
+% batB	-100.00000
+% batC	-191.74107
+
+dt_ms	42244.00
+last_read_micros	10375120
+current_read_micros	10417364
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1122000217
+calculte_milli_coulombs_transffred	337952.0312500000
+battery_capacity_coulomb	54769.5351562500
+battery_capacity_milli_coulomb	54769536
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-32.85928
+% bat	50712.53125
+% batA	0.00000
+% batB	-100.00000
+% batC	-129.46427
+
+dt_ms	42244.00
+last_read_micros	10417364
+current_read_micros	10459608
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1122000217
+calculte_milli_coulombs_transffred	337952.0312500000
+battery_capacity_coulomb	54779.8085937500
+battery_capacity_milli_coulomb	54779808
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-32.82876
+% bat	50722.04296
+% batA	0.00000
+% batB	0.00000
+% batC	-57.81250
+
+dt_ms	41904.00
+last_read_micros	10459608
+current_read_micros	10501512
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0952000617
+calculte_milli_coulombs_transffred	335232.0312500000
+battery_capacity_coulomb	54790.0781250000
+battery_capacity_milli_coulomb	54790080
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-32.79519
+% bat	50731.55859
+% batA	0.00000
+% batB	0.00000
+% batC	13.83929
+
+BAT PERCENT
+50.74 %
+dt_ms	76284.00
+last_read_micros	10501512
+current_read_micros	10577796
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-3.8141999244
+calculte_milli_coulombs_transffred	610272.0000000000
+battery_capacity_coulomb	54797.6328125000
+battery_capacity_milli_coulomb	54797632
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-32.77383
+% bat	50738.54296
+% batA	0.00000
+% batB	0.00000
+% batC	66.51786
+
+dt_ms	39096.00
+last_read_micros	10577796
+current_read_micros	10616892
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-1.9548000335
+calculte_milli_coulombs_transffred	312768.0000000000
+battery_capacity_coulomb	54818.0781250000
+battery_capacity_milli_coulomb	54818080
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-32.70974
+% bat	50757.48046
+% batA	0.00000
+% batB	200.00000
+% batC	209.15177
+
+dt_ms	42084.00
+last_read_micros	10616892
+current_read_micros	10658976
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1041998863
+calculte_milli_coulombs_transffred	336672.0312500000
+battery_capacity_coulomb	54803.1679687500
+battery_capacity_milli_coulomb	54803168
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-32.75551
+% bat	50743.67578
+% batA	0.00000
+% batB	100.00000
+% batC	105.13393
+
+dt_ms	42068.00
+last_read_micros	10658976
+current_read_micros	10701044
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1033999919
+calculte_milli_coulombs_transffred	336544.0312500000
+battery_capacity_coulomb	54812.1601562500
+battery_capacity_milli_coulomb	54812160
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-32.72805
+% bat	50752.00000
+% batA	0.00000
+% batB	100.00000
+% batC	167.85714
+
+dt_ms	42076.00
+last_read_micros	10701044
+current_read_micros	10743120
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1038000583
+calculte_milli_coulombs_transffred	336608.0312500000
+battery_capacity_coulomb	54821.0234375000
+battery_capacity_milli_coulomb	54821024
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-32.70058
+% bat	50760.20312
+% batA	0.00000
+% batB	-200.00000
+% batC	-227.45535
+
+dt_ms	42264.00
+last_read_micros	10743120
+current_read_micros	10785384
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1131999492
+calculte_milli_coulombs_transffred	338112.0312500000
+battery_capacity_coulomb	54829.9531250000
+battery_capacity_milli_coulomb	54829952
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-32.67617
+% bat	50768.47265
+% batA	0.00000
+% batB	-100.00000
+% batC	-165.17857
+
+dt_ms	42216.00
+last_read_micros	10785384
+current_read_micros	10827600
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.1108000278
+calculte_milli_coulombs_transffred	337728.0312500000
+battery_capacity_coulomb	54840.3828125000
+battery_capacity_milli_coulomb	54840384
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-32.64260
+% bat	50778.12890
+% batA	0.00000
+% batB	0.00000
+% batC	-92.41072
+
+BAT PERCENT
+50.79 %
+dt_ms	76348.00
+last_read_micros	10827600
+current_read_micros	10903948
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-3.8173999786
+calculte_milli_coulombs_transffred	610784.0000000000
+battery_capacity_coulomb	54850.4335937500
+battery_capacity_milli_coulomb	54850432
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-32.61208
+% bat	50787.43750
+% batA	0.00000
+% batB	0.00000
+% batC	-22.32143
+
+dt_ms	39184.00
+last_read_micros	10903948
+current_read_micros	10943132
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-1.9592000007
+calculte_milli_coulombs_transffred	313472.0000000000
+battery_capacity_coulomb	54871.3906250000
+battery_capacity_milli_coulomb	54871392
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-32.54799
+% bat	50806.84765
+% batA	0.00000
+% batB	100.00000
+% batC	123.88393
+
+dt_ms	42076.00
+last_read_micros	10943132
+current_read_micros	10985208
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1038000583
+calculte_milli_coulombs_transffred	336608.0312500000
+battery_capacity_coulomb	54857.1835937500
+battery_capacity_milli_coulomb	54857184
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-32.59072
+% bat	50793.69140
+% batA	0.00000
+% batB	0.00000
+% batC	24.77679
+
+dt_ms	41840.00
+last_read_micros	10985208
+current_read_micros	11027048
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.0920000076
+calculte_milli_coulombs_transffred	334720.0312500000
+battery_capacity_coulomb	54866.1132812500
+battery_capacity_milli_coulomb	54866112
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-32.56325
+% bat	50801.95703
+% batA	0.00000
+% batB	0.00000
+% batC	87.05358
+
+dt_ms	41800.00
+last_read_micros	11027048
+current_read_micros	11068848
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0899999141
+calculte_milli_coulombs_transffred	334400.0312500000
+battery_capacity_coulomb	54873.1523437500
+battery_capacity_milli_coulomb	54873152
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-32.54188
+% bat	50808.47265
+% batA	0.00000
+% batB	100.00000
+% batC	136.16072
+
+dt_ms	42076.00
+last_read_micros	11068848
+current_read_micros	11110924
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1038000583
+calculte_milli_coulombs_transffred	336608.0312500000
+battery_capacity_coulomb	54879.8710937500
+battery_capacity_milli_coulomb	54879872
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-32.52357
+% bat	50814.69531
+% batA	0.00000
+% batB	100.00000
+% batC	183.03572
+
+dt_ms	42084.00
+last_read_micros	11110924
+current_read_micros	11153008
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.1041998863
+calculte_milli_coulombs_transffred	336672.0312500000
+battery_capacity_coulomb	54888.8007812500
+battery_capacity_milli_coulomb	54888800
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-32.49611
+% bat	50822.96484
+% batA	0.00000
+% batB	-200.00000
+% batC	-211.83035
+
+BAT PERCENT
+50.83 %
+dt_ms	76668.00
+last_read_micros	11153008
+current_read_micros	11229676
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-3.8333999633
+calculte_milli_coulombs_transffred	613344.0000000000
+battery_capacity_coulomb	54897.7929687500
+battery_capacity_milli_coulomb	54897792
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-32.46864
+% bat	50831.28906
+% batA	0.00000
+% batB	-100.00000
+% batC	-149.10714
+
+dt_ms	39516.00
+last_read_micros	11229676
+current_read_micros	11269192
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-1.9758000373
+calculte_milli_coulombs_transffred	316128.0000000000
+battery_capacity_coulomb	54921.3125000000
+battery_capacity_milli_coulomb	54921312
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-32.39540
+% bat	50853.07031
+% batA	0.00000
+% batB	0.00000
+% batC	14.95536
+
+dt_ms	41828.00
+last_read_micros	11269192
+current_read_micros	11311020
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.0913999080
+calculte_milli_coulombs_transffred	334624.0312500000
+battery_capacity_coulomb	54909.7617187500
+battery_capacity_milli_coulomb	54909760
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-32.43202
+% bat	50842.36718
+% batA	0.00000
+% batB	0.00000
+% batC	-65.62500
+
+dt_ms	41904.00
+last_read_micros	11311020
+current_read_micros	11352924
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0952000617
+calculte_milli_coulombs_transffred	335232.0312500000
+battery_capacity_coulomb	54916.7031250000
+battery_capacity_milli_coulomb	54916704
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-32.41065
+% bat	50848.80078
+% batA	0.00000
+% batB	0.00000
+% batC	-17.18750
+
+dt_ms	41904.00
+last_read_micros	11352924
+current_read_micros	11394828
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0952000617
+calculte_milli_coulombs_transffred	335232.0312500000
+battery_capacity_coulomb	54924.2578125000
+battery_capacity_milli_coulomb	54924256
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-32.38624
+% bat	50855.79296
+% batA	0.00000
+% batB	0.00000
+% batC	35.49107
+
+dt_ms	41828.00
+last_read_micros	11394828
+current_read_micros	11436656
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0913999080
+calculte_milli_coulombs_transffred	334624.0312500000
+battery_capacity_coulomb	54931.8085937500
+battery_capacity_milli_coulomb	54931808
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-32.36488
+% bat	50862.78515
+% batA	0.00000
+% batB	0.00000
+% batC	88.16964
+
+dt_ms	41812.00
+last_read_micros	11436656
+current_read_micros	11478468
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.0906000137
+calculte_milli_coulombs_transffred	334496.0312500000
+battery_capacity_coulomb	54938.7539062500
+battery_capacity_milli_coulomb	54938752
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-32.34352
+% bat	50869.21484
+% batA	0.00000
+% batB	100.00000
+% batC	136.60714
+
+BAT PERCENT
+50.88 %
+dt_ms	76524.00
+last_read_micros	11478468
+current_read_micros	11554992
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-3.8262000083
+calculte_milli_coulombs_transffred	612192.0000000000
+battery_capacity_coulomb	54945.5664062500
+battery_capacity_milli_coulomb	54945568
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-32.32215
+% bat	50875.52734
+% batA	0.00000
+% batB	100.00000
+% batC	184.15177
+
+dt_ms	39364.00
+last_read_micros	11554992
+current_read_micros	11594356
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-1.9681999206
+calculte_milli_coulombs_transffred	314912.0000000000
+battery_capacity_coulomb	54967.9375000000
+battery_capacity_milli_coulomb	54967936
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-32.25501
+% bat	50896.23828
+% batA	0.00000
+% batB	-100.00000
+% batC	-116.96429
+
+dt_ms	42236.00
+last_read_micros	11594356
+current_read_micros	11636592
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.1117999553
+calculte_milli_coulombs_transffred	337888.0312500000
+battery_capacity_coulomb	54955.1679687500
+battery_capacity_milli_coulomb	54955168
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-32.29163
+% bat	50884.41406
+% batA	0.00000
+% batB	-200.00000
+% batC	-206.02677
+
+dt_ms	42244.00
+last_read_micros	11636592
+current_read_micros	11678836
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.1122000217
+calculte_milli_coulombs_transffred	337952.0312500000
+battery_capacity_coulomb	54965.3750000000
+battery_capacity_milli_coulomb	54965376
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-32.26111
+% bat	50893.86718
+% batA	0.00000
+% batB	-100.00000
+% batC	-134.82142
+
+dt_ms	42252.00
+last_read_micros	11678836
+current_read_micros	11721088
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1126000881
+calculte_milli_coulombs_transffred	338016.0312500000
+battery_capacity_coulomb	54975.6484375000
+battery_capacity_milli_coulomb	54975648
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-32.23060
+% bat	50903.37890
+% batA	0.00000
+% batB	0.00000
+% batC	-63.16964
+
+dt_ms	41900.00
+last_read_micros	11721088
+current_read_micros	11762988
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0950000286
+calculte_milli_coulombs_transffred	335200.0312500000
+battery_capacity_coulomb	54985.9843750000
+battery_capacity_milli_coulomb	54985984
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-32.20008
+% bat	50912.94921
+% batA	0.00000
+% batB	0.00000
+% batC	8.92857
+
+dt_ms	41732.00
+last_read_micros	11762988
+current_read_micros	11804720
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.0866000652
+calculte_milli_coulombs_transffred	333856.0312500000
+battery_capacity_coulomb	54993.5039062500
+battery_capacity_milli_coulomb	54993504
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-32.17566
+% bat	50919.91015
+% batA	0.00000
+% batB	0.00000
+% batC	61.38393
+
+BAT PERCENT
+50.92 %
+dt_ms	76284.00
+last_read_micros	11804720
+current_read_micros	11881004
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-3.8141999244
+calculte_milli_coulombs_transffred	610272.0000000000
+battery_capacity_coulomb	54999.6796875000
+battery_capacity_milli_coulomb	54999680
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-32.15735
+% bat	50925.62890
+% batA	0.00000
+% batB	100.00000
+% batC	104.46429
+
+dt_ms	39352.00
+last_read_micros	11881004
+current_read_micros	11920356
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-1.9675999641
+calculte_milli_coulombs_transffred	314816.0000000000
+battery_capacity_coulomb	55020.1289062500
+battery_capacity_milli_coulomb	55020128
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-32.09326
+% bat	50944.56640
+% batA	0.00000
+% batB	-200.00000
+% batC	-210.04464
+
+dt_ms	42244.00
+last_read_micros	11920356
+current_read_micros	11962600
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1122000217
+calculte_milli_coulombs_transffred	337952.0312500000
+battery_capacity_coulomb	55007.2656250000
+battery_capacity_milli_coulomb	55007264
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-32.13294
+% bat	50932.65234
+% batA	0.00000
+% batB	100.00000
+% batC	157.36607
+
+dt_ms	42076.00
+last_read_micros	11962600
+current_read_micros	12004676
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1038000583
+calculte_milli_coulombs_transffred	336608.0312500000
+battery_capacity_coulomb	55017.5351562500
+battery_capacity_milli_coulomb	55017536
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-32.10242
+% bat	50942.16015
+% batA	0.00000
+% batB	-200.00000
+% batC	-228.12500
+
+dt_ms	42252.00
+last_read_micros	12004676
+current_read_micros	12046928
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1126000881
+calculte_milli_coulombs_transffred	338016.0312500000
+battery_capacity_coulomb	55026.4648437500
+battery_capacity_milli_coulomb	55026464
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-32.07495
+% bat	50950.42968
+% batA	0.00000
+% batB	-100.00000
+% batC	-165.84822
+
+dt_ms	42240.00
+last_read_micros	12046928
+current_read_micros	12089168
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1119999885
+calculte_milli_coulombs_transffred	337920.0312500000
+battery_capacity_coulomb	55036.8007812500
+battery_capacity_milli_coulomb	55036800
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-32.04443
+% bat	50960.00000
+% batA	0.00000
+% batB	0.00000
+% batC	-93.75000
+
+dt_ms	41904.00
+last_read_micros	12089168
+current_read_micros	12131072
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.0952000617
+calculte_milli_coulombs_transffred	335232.0312500000
+battery_capacity_coulomb	55047.0390625000
+battery_capacity_milli_coulomb	55047040
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-32.01086
+% bat	50969.48437
+% batA	0.00000
+% batB	0.00000
+% batC	-22.32143
+
+BAT PERCENT
+50.98 %
+dt_ms	76352.00
+last_read_micros	12131072
+current_read_micros	12207424
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-3.8176000595
+calculte_milli_coulombs_transffred	610816.0000000000
+battery_capacity_coulomb	55054.5937500000
+battery_capacity_milli_coulomb	55054592
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-31.98950
+% bat	50976.47656
+% batA	0.00000
+% batB	0.00000
+% batC	30.35714
+
+dt_ms	39100.00
+last_read_micros	12207424
+current_read_micros	12246524
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-1.9550000190
+calculte_milli_coulombs_transffred	312800.0000000000
+battery_capacity_coulomb	55075.5859375000
+battery_capacity_milli_coulomb	55075584
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-31.92541
+% bat	50995.91015
+% batA	0.00000
+% batB	100.00000
+% batC	176.78572
+
+dt_ms	42084.00
+last_read_micros	12246524
+current_read_micros	12288608
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1041998863
+calculte_milli_coulombs_transffred	336672.0312500000
+battery_capacity_coulomb	55060.7031250000
+battery_capacity_milli_coulomb	55060704
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-31.97119
+% bat	50982.13671
+% batA	0.00000
+% batB	0.00000
+% batC	72.99108
+
+dt_ms	41812.00
+last_read_micros	12288608
+current_read_micros	12330420
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0906000137
+calculte_milli_coulombs_transffred	334496.0312500000
+battery_capacity_coulomb	55069.6953125000
+battery_capacity_milli_coulomb	55069696
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-31.94372
+% bat	50990.46093
+% batA	0.00000
+% batB	100.00000
+% batC	135.71427
+
+dt_ms	42076.00
+last_read_micros	12330420
+current_read_micros	12372496
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1038000583
+calculte_milli_coulombs_transffred	336608.0312500000
+battery_capacity_coulomb	55076.5117187500
+battery_capacity_milli_coulomb	55076512
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-31.92236
+% bat	50996.76953
+% batA	0.00000
+% batB	100.00000
+% batC	183.25892
+
+dt_ms	42080.00
+last_read_micros	12372496
+current_read_micros	12414576
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1040000915
+calculte_milli_coulombs_transffred	336640.0312500000
+battery_capacity_coulomb	55085.4414062500
+battery_capacity_milli_coulomb	55085440
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-31.89489
+% bat	51005.03515
+% batA	0.00000
+% batB	-200.00000
+% batC	-211.60714
+
+dt_ms	42240.00
+last_read_micros	12414576
+current_read_micros	12456816
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1119999885
+calculte_milli_coulombs_transffred	337920.0312500000
+battery_capacity_coulomb	55094.3984375000
+battery_capacity_milli_coulomb	55094400
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-31.86743
+% bat	51013.33203
+% batA	0.00000
+% batB	-100.00000
+% batC	-149.10714
+
+BAT PERCENT
+51.02 %
+dt_ms	76688.00
+last_read_micros	12456816
+current_read_micros	12533504
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-3.8343999862
+calculte_milli_coulombs_transffred	613504.0000000000
+battery_capacity_coulomb	55104.6406250000
+battery_capacity_milli_coulomb	55104640
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-31.83691
+% bat	51022.81640
+% batA	0.00000
+% batB	0.00000
+% batC	-77.67858
+
+dt_ms	39192.00
+last_read_micros	12533504
+current_read_micros	12572696
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-1.9595999717
+calculte_milli_coulombs_transffred	313536.0000000000
+battery_capacity_coulomb	55128.3203125000
+battery_capacity_milli_coulomb	55128320
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-31.76366
+% bat	51044.74218
+% batA	0.00000
+% batB	0.00000
+% batC	87.50000
+
+dt_ms	41812.00
+last_read_micros	12572696
+current_read_micros	12614508
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0906000137
+calculte_milli_coulombs_transffred	334496.0312500000
+battery_capacity_coulomb	55114.1757812500
+battery_capacity_milli_coulomb	55114176
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-31.80639
+% bat	51031.64843
+% batA	0.00000
+% batB	0.00000
+% batC	-11.16071
+
+dt_ms	41904.00
+last_read_micros	12614508
+current_read_micros	12656412
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0952000617
+calculte_milli_coulombs_transffred	335232.0312500000
+battery_capacity_coulomb	55120.9921875000
+battery_capacity_milli_coulomb	55120992
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-31.78808
+% bat	51037.95703
+% batA	0.00000
+% batB	0.00000
+% batC	36.38393
+
+dt_ms	41828.00
+last_read_micros	12656412
+current_read_micros	12698240
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0913999080
+calculte_milli_coulombs_transffred	334624.0312500000
+battery_capacity_coulomb	55128.5429687500
+battery_capacity_milli_coulomb	55128544
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-31.76366
+% bat	51044.94921
+% batA	0.00000
+% batB	0.00000
+% batC	89.06250
+
+dt_ms	41812.00
+last_read_micros	12698240
+current_read_micros	12740052
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0906000137
+calculte_milli_coulombs_transffred	334496.0312500000
+battery_capacity_coulomb	55135.4882812500
+battery_capacity_milli_coulomb	55135488
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-31.74230
+% bat	51051.37500
+% batA	0.00000
+% batB	100.00000
+% batC	137.50000
+
+dt_ms	42076.00
+last_read_micros	12740052
+current_read_micros	12782128
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.1038000583
+calculte_milli_coulombs_transffred	336608.0312500000
+battery_capacity_coulomb	55142.3046875000
+battery_capacity_milli_coulomb	55142304
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-31.72094
+% bat	51057.68750
+% batA	0.00000
+% batB	100.00000
+% batC	185.04464
+
+BAT PERCENT
+51.07 %
+dt_ms	76512.00
+last_read_micros	12782128
+current_read_micros	12858640
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-3.8255998611
+calculte_milli_coulombs_transffred	612096.0000000000
+battery_capacity_coulomb	55151.2304687500
+battery_capacity_milli_coulomb	55151232
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-31.69347
+% bat	51065.95703
+% batA	0.00000
+% batB	-200.00000
+% batC	-209.82142
+
+dt_ms	39528.00
+last_read_micros	12858640
+current_read_micros	12898168
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-1.9763999938
+calculte_milli_coulombs_transffred	316224.0000000000
+battery_capacity_coulomb	55173.5039062500
+battery_capacity_milli_coulomb	55173504
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-31.62633
+% bat	51086.57812
+% batA	0.00000
+% batB	0.00000
+% batC	-54.46429
+
+dt_ms	41904.00
+last_read_micros	12898168
+current_read_micros	12940072
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0952000617
+calculte_milli_coulombs_transffred	335232.0312500000
+battery_capacity_coulomb	55162.0468750000
+battery_capacity_milli_coulomb	55162048
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-31.65990
+% bat	51075.97265
+% batA	0.00000
+% batB	-100.00000
+% batC	-134.37500
+
+dt_ms	42252.00
+last_read_micros	12940072
+current_read_micros	12982324
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1126000881
+calculte_milli_coulombs_transffred	338016.0312500000
+battery_capacity_coulomb	55169.6015625000
+battery_capacity_milli_coulomb	55169600
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-31.63854
+% bat	51082.96093
+% batA	0.00000
+% batB	0.00000
+% batC	-81.69643
+
+dt_ms	41896.00
+last_read_micros	12982324
+current_read_micros	13024220
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0947999954
+calculte_milli_coulombs_transffred	335168.0312500000
+battery_capacity_coulomb	55179.9375000000
+battery_capacity_milli_coulomb	55179936
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-31.60802
+% bat	51092.53125
+% batA	0.00000
+% batB	0.00000
+% batC	-9.59821
+
+dt_ms	41820.00
+last_read_micros	13024220
+current_read_micros	13066040
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0910000801
+calculte_milli_coulombs_transffred	334560.0312500000
+battery_capacity_coulomb	55187.4257812500
+battery_capacity_milli_coulomb	55187424
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-31.58361
+% bat	51099.46875
+% batA	0.00000
+% batB	0.00000
+% batC	42.63393
+
+dt_ms	41820.00
+last_read_micros	13066040
+current_read_micros	13107860
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.0910000801
+calculte_milli_coulombs_transffred	334560.0312500000
+battery_capacity_coulomb	55194.3046875000
+battery_capacity_milli_coulomb	55194304
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-31.56224
+% bat	51105.83984
+% batA	0.00000
+% batB	0.00000
+% batC	90.62500
+
+BAT PERCENT
+51.11 %
+dt_ms	76288.00
+last_read_micros	13107860
+current_read_micros	13184148
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-3.8143999099
+calculte_milli_coulombs_transffred	610304.0000000000
+battery_capacity_coulomb	55201.1835937500
+battery_capacity_milli_coulomb	55201184
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-31.54088
+% bat	51112.20703
+% batA	0.00000
+% batB	100.00000
+% batC	138.61607
+
+dt_ms	39364.00
+last_read_micros	13184148
+current_read_micros	13223512
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-1.9681999206
+calculte_milli_coulombs_transffred	314912.0000000000
+battery_capacity_coulomb	55221.6640625000
+battery_capacity_milli_coulomb	55221664
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-31.47984
+% bat	51131.16796
+% batA	0.00000
+% batB	-100.00000
+% batC	-175.66964
+
+dt_ms	42236.00
+last_read_micros	13223512
+current_read_micros	13265748
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.1117999553
+calculte_milli_coulombs_transffred	337888.0312500000
+battery_capacity_coulomb	55208.8945312500
+battery_capacity_milli_coulomb	55208896
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-31.51952
+% bat	51119.35156
+% batA	0.00000
+% batB	100.00000
+% batC	192.41072
+
+dt_ms	42072.00
+last_read_micros	13265748
+current_read_micros	13307820
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1036000251
+calculte_milli_coulombs_transffred	336576.0312500000
+battery_capacity_coulomb	55219.1054687500
+battery_capacity_milli_coulomb	55219104
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-31.48595
+% bat	51128.80078
+% batA	0.00000
+% batB	-100.00000
+% batC	-193.52677
+
+dt_ms	42256.00
+last_read_micros	13307820
+current_read_micros	13350076
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.1127998828
+calculte_milli_coulombs_transffred	338048.0312500000
+battery_capacity_coulomb	55228.0000000000
+battery_capacity_milli_coulomb	55228000
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-31.45848
+% bat	51137.03906
+% batA	0.00000
+% batB	-100.00000
+% batC	-131.47322
+
+dt_ms	42236.00
+last_read_micros	13350076
+current_read_micros	13392312
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1117999553
+calculte_milli_coulombs_transffred	337888.0312500000
+battery_capacity_coulomb	55238.3671875000
+battery_capacity_milli_coulomb	55238368
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-31.42796
+% bat	51146.63671
+% batA	0.00000
+% batB	0.00000
+% batC	-59.15179
+
+dt_ms	41912.00
+last_read_micros	13392312
+current_read_micros	13434224
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0955998897
+calculte_milli_coulombs_transffred	335296.0312500000
+battery_capacity_coulomb	55248.5742187500
+battery_capacity_milli_coulomb	55248576
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-31.39744
+% bat	51156.08984
+% batA	0.00000
+% batB	0.00000
+% batC	12.05357
+
+BAT PERCENT
+51.16 %
+dt_ms	76264.00
+last_read_micros	13434224
+current_read_micros	13510488
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-3.8131999969
+calculte_milli_coulombs_transffred	610112.0000000000
+battery_capacity_coulomb	55256.1914062500
+battery_capacity_milli_coulomb	55256192
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-31.37303
+% bat	51163.14062
+% batA	0.00000
+% batB	0.00000
+% batC	65.17858
+
+dt_ms	39104.00
+last_read_micros	13510488
+current_read_micros	13549592
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-1.9552000045
+calculte_milli_coulombs_transffred	312832.0000000000
+battery_capacity_coulomb	55276.4804687500
+battery_capacity_milli_coulomb	55276480
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-31.31199
+% bat	51181.92578
+% batA	0.00000
+% batB	200.00000
+% batC	206.69642
+
+BAT PERCENT
+52.53 %
+BAT PERCENT
+54.46 %
+BAT PERCENT
+56.38 %
+BAT PERCENT
+58.31 %
+BAT PERCENT
+60.22 %
+BAT PERCENT
+62.15 %
+BAT PERCENT
+64.07 %
+BAT PERCENT
+66.00 %
+BAT PERCENT
+67.93 %
+BAT PERCENT
+69.86 %
+BAT PERCENT
+71.79 %
+BAT PERCENT
+73.72 %
+BAT PERCENT
+75.64 %
+BAT PERCENT
+77.57 %
+BAT PERCENT
+79.50 %
+BAT PERCENT
+81.43 %
+BAT PERCENT
+83.36 %
+BAT PERCENT
+85.29 %
+BAT PERCENT
+87.21 %
+BAT PERCENT
+89.14 %
+BAT PERCENT
+91.07 %
+BAT PERCENT
+93.00 %
+BAT PERCENT
+94.93 %
+BAT PERCENT
+96.85 %
+BAT PERCENT
+98.78 %
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+BAT PERCENT
+100.00 %
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+BAT PERCENT
+100.00 %
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+BAT PERCENT
+100.00 %
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+BAT PERCENT
+100.00 %
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+BAT PERCENT
+100.00 %
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+BAT PERCENT
+100.00 %
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+BAT PERCENT
+100.00 %
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+BAT PERCENT
+100.00 %
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+BAT PERCENT
+100.00 %
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+BAT PERCENT
+100.00 %
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+BAT PERCENT
+100.00 %
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+BAT PERCENT
+100.00 %
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+BAT PERCENT
+100.00 %
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+BAT PERCENT
+100.00 %
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+BAT PERCENT
+100.00 %
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+BAT PERCENT
+100.00 %
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+BAT PERCENT
+100.00 %
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+BAT PERCENT
+100.00 %
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+BAT PERCENT
+100.00 %
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+BAT PERCENT
+100.00 %
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+BAT PERCENT
+100.00 %
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+BAT PERCENT
+100.00 %
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+BAT PERCENT
+100.00 %
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+BAT PERCENT
+100.00 %
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+BAT PERCENT
+100.00 %
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+BAT PERCENT
+100.00 %
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+BAT PERCENT
+100.00 %
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+BAT PERCENT
+100.00 %
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+BAT PERCENT
+100.00 %
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+BAT PERCENT
+100.00 %
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+BAT PERCENT
+100.00 %
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+BAT PERCENT
+100.00 %
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+BAT PERCENT
+100.00 %
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+BAT PERCENT
+100.00 %
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+BAT PERCENT
+100.00 %
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+BAT PERCENT
+100.00 %
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+BAT PERCENT
+100.00 %
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bat fully charged !!!
+bh�0����8K������О�����8K���8K��ј

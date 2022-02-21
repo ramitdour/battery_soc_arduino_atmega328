@@ -1,0 +1,4514 @@
+battery_voltage	64.00
+battery_capacity_ah	30.00
+battery_capacity_coulomb	108000.00
+shunt_voltage	0.00
+
+
+===================
+SHUNT_RESISTANCE	0.00
+SHUNT_MULTIPLIER	0.01
+BATTERY_CAPACITY_AH	30.00
+BATTERY_CAPACITY_COULOMB	108000.00
+battery_capacity_milli_coulomb	54000000
+
+
+===================
+Success ADS
+Success to initialize ADS.
+dt_ms	2748.00
+last_read_micros	4372496
+current_read_micros	4375244
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-0.1374000072
+calculte_milli_coulombs_transffred	-21984.0019531250
+battery_capacity_coulomb	108000.0000000000
+battery_capacity_milli_coulomb	54000000
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-70.41231
+% bat	50000.00000
+% batA	0.00000
+% batB	0.00000
+% batC	-11.60714
+
+dt_ms	39008.00
+last_read_micros	4375244
+current_read_micros	4414252
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-1.9503999710
+calculte_milli_coulombs_transffred	-312064.0000000000
+battery_capacity_coulomb	53978.0156250000
+battery_capacity_milli_coulomb	53978016
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-35.27329
+% bat	49979.64453
+% batA	0.00000
+% batB	-100.00000
+% batC	-164.95535
+
+dt_ms	42160.00
+last_read_micros	4414252
+current_read_micros	4456412
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1080000400
+calculte_milli_coulombs_transffred	-337280.0312500000
+battery_capacity_coulomb	53993.6328125000
+battery_capacity_milli_coulomb	53993632
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-35.22751
+% bat	49994.10156
+% batA	0.00000
+% batB	0.00000
+% batC	-56.02679
+
+dt_ms	41824.00
+last_read_micros	4456412
+current_read_micros	4498236
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0912001132
+calculte_milli_coulombs_transffred	-334592.0312500000
+battery_capacity_coulomb	53984.0312500000
+battery_capacity_milli_coulomb	53984032
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-35.25498
+% bat	49985.21484
+% batA	0.00000
+% batB	-100.00000
+% batC	-122.99108
+
+dt_ms	42160.00
+last_read_micros	4498236
+current_read_micros	4540396
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1080000400
+calculte_milli_coulombs_transffred	-337280.0312500000
+battery_capacity_coulomb	53977.1210937500
+battery_capacity_milli_coulomb	53977120
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-35.27634
+% bat	49978.81250
+% batA	0.00000
+% batB	-100.00000
+% batC	-171.20535
+
+dt_ms	42168.00
+last_read_micros	4540396
+current_read_micros	4582564
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1084001064
+calculte_milli_coulombs_transffred	-337344.0312500000
+battery_capacity_coulomb	53967.5195312500
+battery_capacity_milli_coulomb	53967520
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-35.30686
+% bat	49969.92578
+% batA	0.00000
+% batB	200.00000
+% batC	218.97322
+
+dt_ms	41992.00
+last_read_micros	4582564
+current_read_micros	4624556
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0996000766
+calculte_milli_coulombs_transffred	-335936.0312500000
+battery_capacity_coulomb	53957.8554687500
+battery_capacity_milli_coulomb	53957856
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-35.33738
+% bat	49960.98046
+% batA	0.00000
+% batB	100.00000
+% batC	151.56250
+
+dt_ms	41988.00
+last_read_micros	4624556
+current_read_micros	4666544
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0994000434
+calculte_milli_coulombs_transffred	-335904.0312500000
+battery_capacity_coulomb	53949.6015625000
+battery_capacity_milli_coulomb	53949600
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-35.36180
+% bat	49953.33203
+% batA	0.00000
+% batB	0.00000
+% batC	93.97322
+
+V bat
+67.74 V
+dt_ms	67032.00
+last_read_micros	4666544
+current_read_micros	4733576
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-3.3515999317
+calculte_milli_coulombs_transffred	-536256.0000000000
+battery_capacity_coulomb	53941.3750000000
+battery_capacity_milli_coulomb	53941376
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-35.38621
+% bat	49945.71875
+% batA	0.00000
+% batB	0.00000
+% batC	36.60714
+
+dt_ms	39012.00
+last_read_micros	4733576
+current_read_micros	4772588
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-1.9506000518
+calculte_milli_coulombs_transffred	-312096.0000000000
+battery_capacity_coulomb	53929.4062500000
+battery_capacity_milli_coulomb	53929408
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-35.42283
+% bat	49934.64062
+% batA	0.00000
+% batB	0.00000
+% batC	-46.87500
+
+dt_ms	41828.00
+last_read_micros	4772588
+current_read_micros	4814416
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0913999080
+calculte_milli_coulombs_transffred	-334624.0312500000
+battery_capacity_coulomb	53944.9921875000
+battery_capacity_milli_coulomb	53944992
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-35.37705
+% bat	49949.06640
+% batA	0.00000
+% batB	0.00000
+% batC	61.83036
+
+dt_ms	41728.00
+last_read_micros	4814416
+current_read_micros	4856144
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.0864000320
+calculte_milli_coulombs_transffred	-333824.0312500000
+battery_capacity_coulomb	53938.0468750000
+battery_capacity_milli_coulomb	53938048
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-35.39537
+% bat	49942.63671
+% batA	0.00000
+% batB	0.00000
+% batC	13.39286
+
+dt_ms	41736.00
+last_read_micros	4856144
+current_read_micros	4897880
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.0868000984
+calculte_milli_coulombs_transffred	-333888.0312500000
+battery_capacity_coulomb	53931.9023437500
+battery_capacity_milli_coulomb	53931904
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-35.41673
+% bat	49936.94531
+% batA	0.00000
+% batB	0.00000
+% batC	-29.46429
+
+dt_ms	41820.00
+last_read_micros	4897880
+current_read_micros	4939700
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0910000801
+calculte_milli_coulombs_transffred	-334560.0312500000
+battery_capacity_coulomb	53925.6953125000
+battery_capacity_milli_coulomb	53925696
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-35.43504
+% bat	49931.19921
+% batA	0.00000
+% batB	0.00000
+% batC	-72.76786
+
+dt_ms	41820.00
+last_read_micros	4939700
+current_read_micros	4981520
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0910000801
+calculte_milli_coulombs_transffred	-334560.0312500000
+battery_capacity_coulomb	53918.8164062500
+battery_capacity_milli_coulomb	53918816
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-35.45640
+% bat	49924.83203
+% batA	0.00000
+% batB	-100.00000
+% batC	-120.75893
+
+BAT PERCENT
+49.92 %
+dt_ms	76648.00
+last_read_micros	4981520
+current_read_micros	5058168
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-3.8324001312
+calculte_milli_coulombs_transffred	-613184.0000000000
+battery_capacity_coulomb	53911.9375000000
+battery_capacity_milli_coulomb	53911936
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-35.47777
+% bat	49918.46093
+% batA	0.00000
+% batB	-100.00000
+% batC	-168.75000
+
+dt_ms	39432.00
+last_read_micros	5058168
+current_read_micros	5097600
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-1.9715999603
+calculte_milli_coulombs_transffred	-315456.0000000000
+battery_capacity_coulomb	53888.5742187500
+battery_capacity_milli_coulomb	53888576
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-35.54796
+% bat	49896.82812
+% batA	0.00000
+% batB	100.00000
+% batC	125.44643
+
+dt_ms	42004.00
+last_read_micros	5097600
+current_read_micros	5139604
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1001999378
+calculte_milli_coulombs_transffred	-336032.0312500000
+battery_capacity_coulomb	53900.8007812500
+battery_capacity_milli_coulomb	53900800
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-35.51134
+% bat	49908.14843
+% batA	0.00000
+% batB	200.00000
+% batC	210.71427
+
+dt_ms	41992.00
+last_read_micros	5139604
+current_read_micros	5181596
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0996000766
+calculte_milli_coulombs_transffred	-335936.0312500000
+battery_capacity_coulomb	53892.4492187500
+battery_capacity_milli_coulomb	53892448
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-35.53575
+% bat	49900.41796
+% batA	0.00000
+% batB	100.00000
+% batC	152.45535
+
+dt_ms	41984.00
+last_read_micros	5181596
+current_read_micros	5223580
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.0992000102
+calculte_milli_coulombs_transffred	-335872.0312500000
+battery_capacity_coulomb	53884.1914062500
+battery_capacity_milli_coulomb	53884192
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-35.56016
+% bat	49892.76953
+% batA	0.00000
+% batB	0.00000
+% batC	94.86608
+
+dt_ms	41728.00
+last_read_micros	5223580
+current_read_micros	5265308
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0864000320
+calculte_milli_coulombs_transffred	-333824.0312500000
+battery_capacity_coulomb	53876.0000000000
+battery_capacity_milli_coulomb	53876000
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-35.58458
+% bat	49885.18359
+% batA	0.00000
+% batB	0.00000
+% batC	37.72321
+
+dt_ms	41740.00
+last_read_micros	5265308
+current_read_micros	5307048
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0869998931
+calculte_milli_coulombs_transffred	-333920.0312500000
+battery_capacity_coulomb	53869.8554687500
+battery_capacity_milli_coulomb	53869856
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-35.60594
+% bat	49879.49218
+% batA	0.00000
+% batB	0.00000
+% batC	-5.13393
+
+BAT PERCENT
+49.87 %
+dt_ms	76200.00
+last_read_micros	5307048
+current_read_micros	5383248
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-3.8099999427
+calculte_milli_coulombs_transffred	-609600.0000000000
+battery_capacity_coulomb	53863.6171875000
+battery_capacity_milli_coulomb	53863616
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-35.62425
+% bat	49873.72265
+% batA	0.00000
+% batB	0.00000
+% batC	-48.66071
+
+dt_ms	39100.00
+last_read_micros	5383248
+current_read_micros	5422348
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-1.9550000190
+calculte_milli_coulombs_transffred	-312800.0000000000
+battery_capacity_coulomb	53843.8398437500
+battery_capacity_milli_coulomb	53843840
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-35.68529
+% bat	49855.40625
+% batA	0.00000
+% batB	-100.00000
+% batC	-186.60714
+
+dt_ms	42152.00
+last_read_micros	5422348
+current_read_micros	5464500
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.1075999736
+calculte_milli_coulombs_transffred	-337216.0312500000
+battery_capacity_coulomb	53858.7187500000
+battery_capacity_milli_coulomb	53858720
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-35.63951
+% bat	49869.18359
+% batA	0.00000
+% batB	0.00000
+% batC	-82.81250
+
+dt_ms	41820.00
+last_read_micros	5464500
+current_read_micros	5506320
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0910000801
+calculte_milli_coulombs_transffred	-334560.0312500000
+battery_capacity_coulomb	53849.1835937500
+battery_capacity_milli_coulomb	53849184
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-35.66698
+% bat	49860.35546
+% batA	0.00000
+% batB	-100.00000
+% batC	-149.33035
+
+dt_ms	42168.00
+last_read_micros	5506320
+current_read_micros	5548488
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1084001064
+calculte_milli_coulombs_transffred	-337344.0312500000
+battery_capacity_coulomb	53842.3046875000
+battery_capacity_milli_coulomb	53842304
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-35.68835
+% bat	49853.98437
+% batA	0.00000
+% batB	-100.00000
+% batC	-197.32142
+
+dt_ms	42168.00
+last_read_micros	5548488
+current_read_micros	5590656
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.1084001064
+calculte_milli_coulombs_transffred	-337344.0312500000
+battery_capacity_coulomb	53832.6406250000
+battery_capacity_milli_coulomb	53832640
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-35.71886
+% bat	49845.03906
+% batA	0.00000
+% batB	100.00000
+% batC	192.41072
+
+dt_ms	41988.00
+last_read_micros	5590656
+current_read_micros	5632644
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0994000434
+calculte_milli_coulombs_transffred	-335904.0312500000
+battery_capacity_coulomb	53822.9765625000
+battery_capacity_milli_coulomb	53822976
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-35.74938
+% bat	49836.08984
+% batA	0.00000
+% batB	100.00000
+% batC	125.00000
+
+BAT PERCENT
+49.83 %
+dt_ms	76440.00
+last_read_micros	5632644
+current_read_micros	5709084
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-3.8220000267
+calculte_milli_coulombs_transffred	-611520.0000000000
+battery_capacity_coulomb	53814.7539062500
+battery_capacity_milli_coulomb	53814752
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-35.77379
+% bat	49828.47656
+% batA	0.00000
+% batB	0.00000
+% batC	67.63393
+
+dt_ms	39012.00
+last_read_micros	5709084
+current_read_micros	5748096
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-1.9506000518
+calculte_milli_coulombs_transffred	-312096.0000000000
+battery_capacity_coulomb	53793.0546875000
+battery_capacity_milli_coulomb	53793056
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-35.83789
+% bat	49808.38281
+% batA	0.00000
+% batB	0.00000
+% batC	-83.70536
+
+dt_ms	41816.00
+last_read_micros	5748096
+current_read_micros	5789912
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0908000469
+calculte_milli_coulombs_transffred	-334528.0312500000
+battery_capacity_coulomb	53808.6406250000
+battery_capacity_milli_coulomb	53808640
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-35.79211
+% bat	49822.81640
+% batA	0.00000
+% batB	0.00000
+% batC	25.00000
+
+dt_ms	41740.00
+last_read_micros	5789912
+current_read_micros	5831652
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0869998931
+calculte_milli_coulombs_transffred	-333920.0312500000
+battery_capacity_coulomb	53801.7929687500
+battery_capacity_milli_coulomb	53801792
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-35.81347
+% bat	49816.47265
+% batA	0.00000
+% batB	0.00000
+% batC	-22.76786
+
+dt_ms	41824.00
+last_read_micros	5831652
+current_read_micros	5873476
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0912001132
+calculte_milli_coulombs_transffred	-334592.0312500000
+battery_capacity_coulomb	53795.5507812500
+battery_capacity_milli_coulomb	53795552
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-35.83178
+% bat	49810.69531
+% batA	0.00000
+% batB	0.00000
+% batC	-66.29464
+
+dt_ms	41816.00
+last_read_micros	5873476
+current_read_micros	5915292
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0908000469
+calculte_milli_coulombs_transffred	-334528.0312500000
+battery_capacity_coulomb	53788.6406250000
+battery_capacity_milli_coulomb	53788640
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-35.85314
+% bat	49804.29687
+% batA	0.00000
+% batB	-100.00000
+% batC	-114.50893
+
+dt_ms	42164.00
+last_read_micros	5915292
+current_read_micros	5957456
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1082000732
+calculte_milli_coulombs_transffred	-337312.0312500000
+battery_capacity_coulomb	53781.7929687500
+battery_capacity_milli_coulomb	53781792
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-35.87451
+% bat	49797.95312
+% batA	0.00000
+% batB	-100.00000
+% batC	-162.27677
+
+BAT PERCENT
+49.79 %
+dt_ms	76628.00
+last_read_micros	5957456
+current_read_micros	6034084
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-3.8313999176
+calculte_milli_coulombs_transffred	-613024.0000000000
+battery_capacity_coulomb	53772.1601562500
+battery_capacity_milli_coulomb	53772160
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-35.90197
+% bat	49789.03515
+% batA	0.00000
+% batB	200.00000
+% batC	227.67857
+
+dt_ms	39276.00
+last_read_micros	6034084
+current_read_micros	6073360
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-1.9637999534
+calculte_milli_coulombs_transffred	-314208.0000000000
+battery_capacity_coulomb	53748.9609375000
+battery_capacity_milli_coulomb	53748960
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-35.97522
+% bat	49767.55468
+% batA	0.00000
+% batB	0.00000
+% batC	65.84822
+
+dt_ms	41728.00
+last_read_micros	6073360
+current_read_micros	6115088
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.0864000320
+calculte_milli_coulombs_transffred	-333824.0312500000
+battery_capacity_coulomb	53762.4335937500
+battery_capacity_milli_coulomb	53762432
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-35.93249
+% bat	49780.03125
+% batA	0.00000
+% batB	100.00000
+% batC	159.82142
+
+dt_ms	41992.00
+last_read_micros	6115088
+current_read_micros	6157080
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0996000766
+calculte_milli_coulombs_transffred	-335936.0312500000
+battery_capacity_coulomb	53756.2890625000
+battery_capacity_milli_coulomb	53756288
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-35.95080
+% bat	49774.33984
+% batA	0.00000
+% batB	100.00000
+% batC	116.96429
+
+dt_ms	41988.00
+last_read_micros	6157080
+current_read_micros	6199068
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0994000434
+calculte_milli_coulombs_transffred	-335904.0312500000
+battery_capacity_coulomb	53748.0312500000
+battery_capacity_milli_coulomb	53748032
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-35.97522
+% bat	49766.69140
+% batA	0.00000
+% batB	0.00000
+% batC	59.37500
+
+dt_ms	41736.00
+last_read_micros	6199068
+current_read_micros	6240804
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0868000984
+calculte_milli_coulombs_transffred	-333888.0312500000
+battery_capacity_coulomb	53739.8085937500
+battery_capacity_milli_coulomb	53739808
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-36.00268
+% bat	49759.07812
+% batA	0.00000
+% batB	0.00000
+% batC	2.00893
+
+dt_ms	41652.00
+last_read_micros	6240804
+current_read_micros	6282456
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0825998783
+calculte_milli_coulombs_transffred	-333216.0312500000
+battery_capacity_coulomb	53733.6015625000
+battery_capacity_milli_coulomb	53733600
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-36.02099
+% bat	49753.33593
+% batA	0.00000
+% batB	0.00000
+% batC	-41.29464
+
+BAT PERCENT
+49.75 %
+dt_ms	76268.00
+last_read_micros	6282456
+current_read_micros	6358724
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-3.8134000778
+calculte_milli_coulombs_transffred	-610144.0000000000
+battery_capacity_coulomb	53728.0625000000
+battery_capacity_milli_coulomb	53728064
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-36.03625
+% bat	49748.20312
+% batA	0.00000
+% batB	0.00000
+% batC	-79.91072
+
+dt_ms	39092.00
+last_read_micros	6358724
+current_read_micros	6397816
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-1.9545999526
+calculte_milli_coulombs_transffred	-312736.0000000000
+battery_capacity_coulomb	53707.7421875000
+battery_capacity_milli_coulomb	53707744
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-36.10034
+% bat	49729.39453
+% batA	0.00000
+% batB	-200.00000
+% batC	-221.65177
+
+dt_ms	42176.00
+last_read_micros	6397816
+current_read_micros	6439992
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.1087999343
+calculte_milli_coulombs_transffred	-337408.0312500000
+battery_capacity_coulomb	53722.6875000000
+battery_capacity_milli_coulomb	53722688
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-36.05456
+% bat	49743.23046
+% batA	0.00000
+% batB	-100.00000
+% batC	-117.41072
+
+dt_ms	42152.00
+last_read_micros	6439992
+current_read_micros	6482144
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1075999736
+calculte_milli_coulombs_transffred	-337216.0312500000
+battery_capacity_coulomb	53712.9609375000
+battery_capacity_milli_coulomb	53712960
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-36.08509
+% bat	49734.21875
+% batA	0.00000
+% batB	-100.00000
+% batC	-185.26785
+
+dt_ms	42160.00
+last_read_micros	6482144
+current_read_micros	6524304
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1080000400
+calculte_milli_coulombs_transffred	-337280.0312500000
+battery_capacity_coulomb	53703.4257812500
+battery_capacity_milli_coulomb	53703424
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-36.11255
+% bat	49725.39062
+% batA	0.00000
+% batB	200.00000
+% batC	205.35714
+
+dt_ms	41984.00
+last_read_micros	6524304
+current_read_micros	6566288
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0992000102
+calculte_milli_coulombs_transffred	-335872.0312500000
+battery_capacity_coulomb	53693.8242187500
+battery_capacity_milli_coulomb	53693824
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-36.14307
+% bat	49716.50390
+% batA	0.00000
+% batB	100.00000
+% batC	138.39285
+
+dt_ms	41996.00
+last_read_micros	6566288
+current_read_micros	6608284
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.0998001098
+calculte_milli_coulombs_transffred	-335968.0312500000
+battery_capacity_coulomb	53685.6328125000
+battery_capacity_milli_coulomb	53685632
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-36.16748
+% bat	49708.91796
+% batA	0.00000
+% batB	0.00000
+% batC	81.25000
+
+BAT PERCENT
+49.70 %
+dt_ms	76208.00
+last_read_micros	6608284
+current_read_micros	6684492
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-3.8104000091
+calculte_milli_coulombs_transffred	-609664.0000000000
+battery_capacity_coulomb	53677.3437500000
+battery_capacity_milli_coulomb	53677344
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-36.19190
+% bat	49701.24609
+% batA	0.00000
+% batB	0.00000
+% batC	23.43750
+
+dt_ms	39016.00
+last_read_micros	6684492
+current_read_micros	6723508
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-1.9507999420
+calculte_milli_coulombs_transffred	-312128.0000000000
+battery_capacity_coulomb	53657.5039062500
+battery_capacity_milli_coulomb	53657504
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-36.25294
+% bat	49682.87109
+% batA	0.00000
+% batB	-100.00000
+% batC	-114.95536
+
+dt_ms	42160.00
+last_read_micros	6723508
+current_read_micros	6765668
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1080000400
+calculte_milli_coulombs_transffred	-337280.0312500000
+battery_capacity_coulomb	53673.0546875000
+battery_capacity_milli_coulomb	53673056
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-36.20411
+% bat	49697.27734
+% batA	0.00000
+% batB	0.00000
+% batC	-6.47321
+
+dt_ms	41736.00
+last_read_micros	6765668
+current_read_micros	6807404
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0868000984
+calculte_milli_coulombs_transffred	-333888.0312500000
+battery_capacity_coulomb	53663.4570312500
+battery_capacity_milli_coulomb	53663456
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-36.23463
+% bat	49688.38671
+% batA	0.00000
+% batB	0.00000
+% batC	-73.43750
+
+dt_ms	41820.00
+last_read_micros	6807404
+current_read_micros	6849224
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0910000801
+calculte_milli_coulombs_transffred	-334560.0312500000
+battery_capacity_coulomb	53657.2460937500
+battery_capacity_milli_coulomb	53657248
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-36.25294
+% bat	49682.63671
+% batA	0.00000
+% batB	-100.00000
+% batC	-116.74108
+
+dt_ms	42160.00
+last_read_micros	6849224
+current_read_micros	6891384
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1080000400
+calculte_milli_coulombs_transffred	-337280.0312500000
+battery_capacity_coulomb	53650.3671875000
+battery_capacity_milli_coulomb	53650368
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-36.27430
+% bat	49676.26953
+% batA	0.00000
+% batB	-100.00000
+% batC	-164.73214
+
+dt_ms	42164.00
+last_read_micros	6891384
+current_read_micros	6933548
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.1082000732
+calculte_milli_coulombs_transffred	-337312.0312500000
+battery_capacity_coulomb	53640.7695312500
+battery_capacity_milli_coulomb	53640768
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-36.30482
+% bat	49667.37500
+% batA	0.00000
+% batB	200.00000
+% batC	225.44642
+
+BAT PERCENT
+49.66 %
+dt_ms	76440.00
+last_read_micros	6933548
+current_read_micros	7009988
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-3.8220000267
+calculte_milli_coulombs_transffred	-611520.0000000000
+battery_capacity_coulomb	53631.1367187500
+battery_capacity_milli_coulomb	53631136
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-36.33229
+% bat	49658.45703
+% batA	0.00000
+% batB	100.00000
+% batC	158.25892
+
+dt_ms	39276.00
+last_read_micros	7009988
+current_read_micros	7049264
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-1.9637999534
+calculte_milli_coulombs_transffred	-314208.0000000000
+battery_capacity_coulomb	53609.4414062500
+battery_capacity_milli_coulomb	53609440
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-36.39942
+% bat	49638.37109
+% batA	0.00000
+% batB	0.00000
+% batC	6.91964
+
+dt_ms	41644.00
+last_read_micros	7049264
+current_read_micros	7090908
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0822000503
+calculte_milli_coulombs_transffred	-333152.0312500000
+battery_capacity_coulomb	53622.9101562500
+battery_capacity_milli_coulomb	53622912
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-36.35975
+% bat	49650.84375
+% batA	0.00000
+% batB	100.00000
+% batC	100.89286
+
+dt_ms	41988.00
+last_read_micros	7090908
+current_read_micros	7132896
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0994000434
+calculte_milli_coulombs_transffred	-335904.0312500000
+battery_capacity_coulomb	53617.4414062500
+battery_capacity_milli_coulomb	53617440
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-36.37501
+% bat	49645.77343
+% batA	0.00000
+% batB	0.00000
+% batC	62.72321
+
+dt_ms	41736.00
+last_read_micros	7132896
+current_read_micros	7174632
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0868000984
+calculte_milli_coulombs_transffred	-333888.0312500000
+battery_capacity_coulomb	53609.2148437500
+battery_capacity_milli_coulomb	53609216
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-36.39942
+% bat	49638.16406
+% batA	0.00000
+% batB	0.00000
+% batC	5.35714
+
+dt_ms	41652.00
+last_read_micros	7174632
+current_read_micros	7216284
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0825998783
+calculte_milli_coulombs_transffred	-333216.0312500000
+battery_capacity_coulomb	53603.0078125000
+battery_capacity_milli_coulomb	53603008
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-36.41773
+% bat	49632.41406
+% batA	0.00000
+% batB	0.00000
+% batC	-37.94643
+
+dt_ms	41820.00
+last_read_micros	7216284
+current_read_micros	7258104
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0910000801
+calculte_milli_coulombs_transffred	-334560.0312500000
+battery_capacity_coulomb	53597.4726562500
+battery_capacity_milli_coulomb	53597472
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-36.43605
+% bat	49627.28906
+% batA	0.00000
+% batB	0.00000
+% batC	-76.56250
+
+BAT PERCENT
+49.62 %
+dt_ms	76264.00
+last_read_micros	7258104
+current_read_micros	7334368
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-3.8131999969
+calculte_milli_coulombs_transffred	-610112.0000000000
+battery_capacity_coulomb	53590.5937500000
+battery_capacity_milli_coulomb	53590592
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-36.45741
+% bat	49620.91406
+% batA	0.00000
+% batB	-100.00000
+% batC	-124.55358
+
+dt_ms	39432.00
+last_read_micros	7334368
+current_read_micros	7373800
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-1.9715999603
+calculte_milli_coulombs_transffred	-315456.0000000000
+battery_capacity_coulomb	53570.3046875000
+battery_capacity_milli_coulomb	53570304
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-36.51845
+% bat	49602.13281
+% batA	0.00000
+% batB	100.00000
+% batC	191.07142
+
+dt_ms	41996.00
+last_read_micros	7373800
+current_read_micros	7415796
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0998001098
+calculte_milli_coulombs_transffred	-335968.0312500000
+battery_capacity_coulomb	53582.5273437500
+battery_capacity_milli_coulomb	53582528
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-36.48183
+% bat	49613.45312
+% batA	0.00000
+% batB	-100.00000
+% batC	-180.80357
+
+dt_ms	42168.00
+last_read_micros	7415796
+current_read_micros	7457964
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1084001064
+calculte_milli_coulombs_transffred	-337344.0312500000
+battery_capacity_coulomb	53574.2382812500
+battery_capacity_milli_coulomb	53574240
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-36.50624
+% bat	49605.77734
+% batA	0.00000
+% batB	200.00000
+% batC	218.52677
+
+dt_ms	41992.00
+last_read_micros	7457964
+current_read_micros	7499956
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0996000766
+calculte_milli_coulombs_transffred	-335936.0312500000
+battery_capacity_coulomb	53564.5742187500
+battery_capacity_milli_coulomb	53564576
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-36.53676
+% bat	49596.82812
+% batA	0.00000
+% batB	100.00000
+% batC	151.11607
+
+dt_ms	41980.00
+last_read_micros	7499956
+current_read_micros	7541936
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0989999771
+calculte_milli_coulombs_transffred	-335840.0312500000
+battery_capacity_coulomb	53556.3203125000
+battery_capacity_milli_coulomb	53556320
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-36.56117
+% bat	49589.18750
+% batA	0.00000
+% batB	0.00000
+% batC	93.52679
+
+dt_ms	41736.00
+last_read_micros	7541936
+current_read_micros	7583672
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0868000984
+calculte_milli_coulombs_transffred	-333888.0312500000
+battery_capacity_coulomb	53548.1601562500
+battery_capacity_milli_coulomb	53548160
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-36.58559
+% bat	49581.62890
+% batA	0.00000
+% batB	0.00000
+% batC	36.60714
+
+BAT PERCENT
+49.58 %
+dt_ms	76212.00
+last_read_micros	7583672
+current_read_micros	7659884
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-3.8106000900
+calculte_milli_coulombs_transffred	-609696.0000000000
+battery_capacity_coulomb	53541.9531250000
+battery_capacity_milli_coulomb	53541952
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-36.60695
+% bat	49575.87890
+% batA	0.00000
+% batB	0.00000
+% batC	-6.69643
+
+dt_ms	39012.00
+last_read_micros	7659884
+current_read_micros	7698896
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-1.9506000518
+calculte_milli_coulombs_transffred	-312096.0000000000
+battery_capacity_coulomb	53522.0781250000
+battery_capacity_milli_coulomb	53522080
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-36.66493
+% bat	49557.48046
+% batA	0.00000
+% batB	-100.00000
+% batC	-145.31250
+
+dt_ms	42168.00
+last_read_micros	7698896
+current_read_micros	7741064
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1084001064
+calculte_milli_coulombs_transffred	-337344.0312500000
+battery_capacity_coulomb	53537.6640625000
+battery_capacity_milli_coulomb	53537664
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-36.61916
+% bat	49571.91015
+% batA	0.00000
+% batB	0.00000
+% batC	-36.60714
+
+dt_ms	41820.00
+last_read_micros	7741064
+current_read_micros	7782884
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0910000801
+calculte_milli_coulombs_transffred	-334560.0312500000
+battery_capacity_coulomb	53528.0000000000
+battery_capacity_milli_coulomb	53528000
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-36.64662
+% bat	49562.96484
+% batA	0.00000
+% batB	-100.00000
+% batC	-104.01786
+
+dt_ms	42152.00
+last_read_micros	7782884
+current_read_micros	7825036
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.1075999736
+calculte_milli_coulombs_transffred	-337216.0312500000
+battery_capacity_coulomb	53521.1210937500
+battery_capacity_milli_coulomb	53521120
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-36.66799
+% bat	49556.59375
+% batA	0.00000
+% batB	-100.00000
+% batC	-152.00892
+
+dt_ms	42160.00
+last_read_micros	7825036
+current_read_micros	7867196
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.1080000400
+calculte_milli_coulombs_transffred	-337280.0312500000
+battery_capacity_coulomb	53511.5859375000
+battery_capacity_milli_coulomb	53511584
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-36.69851
+% bat	49547.76171
+% batA	0.00000
+% batB	-200.00000
+% batC	-218.52677
+
+dt_ms	42160.00
+last_read_micros	7867196
+current_read_micros	7909356
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1080000400
+calculte_milli_coulombs_transffred	-337280.0312500000
+battery_capacity_coulomb	53501.9843750000
+battery_capacity_milli_coulomb	53501984
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-36.72903
+% bat	49538.87109
+% batA	0.00000
+% batB	100.00000
+% batC	171.65177
+
+BAT PERCENT
+49.53 %
+dt_ms	76456.00
+last_read_micros	7909356
+current_read_micros	7985812
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-3.8227998733
+calculte_milli_coulombs_transffred	-611648.0000000000
+battery_capacity_coulomb	53492.3828125000
+battery_capacity_milli_coulomb	53492384
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-36.75649
+% bat	49529.98437
+% batA	0.00000
+% batB	100.00000
+% batC	104.68750
+
+dt_ms	39264.00
+last_read_micros	7985812
+current_read_micros	8025076
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-1.9631999969
+calculte_milli_coulombs_transffred	-314112.0000000000
+battery_capacity_coulomb	53470.5585937500
+battery_capacity_milli_coulomb	53470560
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-36.82363
+% bat	49509.77734
+% batA	0.00000
+% batB	0.00000
+% batC	-47.54464
+
+dt_ms	41824.00
+last_read_micros	8025076
+current_read_micros	8066900
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0912001132
+calculte_milli_coulombs_transffred	-334592.0312500000
+battery_capacity_coulomb	53484.1289062500
+battery_capacity_milli_coulomb	53484128
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-36.78091
+% bat	49522.34375
+% batA	0.00000
+% batB	0.00000
+% batC	47.09821
+
+dt_ms	41752.00
+last_read_micros	8066900
+current_read_micros	8108652
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0875999927
+calculte_milli_coulombs_transffred	-334016.0312500000
+battery_capacity_coulomb	53477.2148437500
+battery_capacity_milli_coulomb	53477216
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-36.80227
+% bat	49515.94140
+% batA	0.00000
+% batB	0.00000
+% batC	-1.11607
+
+dt_ms	41724.00
+last_read_micros	8108652
+current_read_micros	8150376
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.0861999988
+calculte_milli_coulombs_transffred	-333792.0312500000
+battery_capacity_coulomb	53470.8789062500
+battery_capacity_milli_coulomb	53470880
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-36.82363
+% bat	49510.07421
+% batA	0.00000
+% batB	0.00000
+% batC	-45.31250
+
+dt_ms	41816.00
+last_read_micros	8150376
+current_read_micros	8192192
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0908000469
+calculte_milli_coulombs_transffred	-334528.0312500000
+battery_capacity_coulomb	53464.7695312500
+battery_capacity_milli_coulomb	53464768
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-36.84194
+% bat	49504.41796
+% batA	0.00000
+% batB	0.00000
+% batC	-87.94643
+
+dt_ms	41824.00
+last_read_micros	8192192
+current_read_micros	8234016
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.0912001132
+calculte_milli_coulombs_transffred	-334592.0312500000
+battery_capacity_coulomb	53457.9218750000
+battery_capacity_milli_coulomb	53457920
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-36.86331
+% bat	49498.07421
+% batA	0.00000
+% batB	-100.00000
+% batC	-135.71427
+
+BAT PERCENT
+49.49 %
+dt_ms	76644.00
+last_read_micros	8234016
+current_read_micros	8310660
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-3.8322000503
+calculte_milli_coulombs_transffred	-613152.0000000000
+battery_capacity_coulomb	53451.0078125000
+battery_capacity_milli_coulomb	53451008
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-36.88162
+% bat	49491.67187
+% batA	0.00000
+% batB	-100.00000
+% batC	-183.92857
+
+dt_ms	39436.00
+last_read_micros	8310660
+current_read_micros	8350096
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-1.9717999458
+calculte_milli_coulombs_transffred	-315488.0000000000
+battery_capacity_coulomb	53427.6796875000
+battery_capacity_milli_coulomb	53427680
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-36.95486
+% bat	49470.07421
+% batA	0.00000
+% batB	100.00000
+% batC	110.49108
+
+dt_ms	41984.00
+last_read_micros	8350096
+current_read_micros	8392080
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0992000102
+calculte_milli_coulombs_transffred	-335872.0312500000
+battery_capacity_coulomb	53439.8710937500
+battery_capacity_milli_coulomb	53439872
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-36.91824
+% bat	49481.36328
+% batA	0.00000
+% batB	100.00000
+% batC	195.53572
+
+dt_ms	41996.00
+last_read_micros	8392080
+current_read_micros	8434076
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0998001098
+calculte_milli_coulombs_transffred	-335968.0312500000
+battery_capacity_coulomb	53431.6796875000
+battery_capacity_milli_coulomb	53431680
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-36.94266
+% bat	49473.77734
+% batA	0.00000
+% batB	100.00000
+% batC	138.39285
+
+dt_ms	41992.00
+last_read_micros	8434076
+current_read_micros	8476068
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0996000766
+calculte_milli_coulombs_transffred	-335936.0312500000
+battery_capacity_coulomb	53423.3906250000
+battery_capacity_milli_coulomb	53423392
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-36.96707
+% bat	49466.10156
+% batA	0.00000
+% batB	0.00000
+% batC	80.58036
+
+dt_ms	41740.00
+last_read_micros	8476068
+current_read_micros	8517808
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0869998931
+calculte_milli_coulombs_transffred	-333920.0312500000
+battery_capacity_coulomb	53415.1367187500
+battery_capacity_milli_coulomb	53415136
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-36.99148
+% bat	49458.46093
+% batA	0.00000
+% batB	0.00000
+% batC	22.99107
+
+dt_ms	41728.00
+last_read_micros	8517808
+current_read_micros	8559536
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0864000320
+calculte_milli_coulombs_transffred	-333824.0312500000
+battery_capacity_coulomb	53408.8945312500
+battery_capacity_milli_coulomb	53408896
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-37.01285
+% bat	49452.68359
+% batA	0.00000
+% batB	0.00000
+% batC	-20.53572
+
+BAT PERCENT
+49.45 %
+dt_ms	76252.00
+last_read_micros	8559536
+current_read_micros	8635788
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-3.8125999450
+calculte_milli_coulombs_transffred	-610016.0000000000
+battery_capacity_coulomb	53402.7539062500
+battery_capacity_milli_coulomb	53402752
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-37.03116
+% bat	49446.99218
+% batA	0.00000
+% batB	0.00000
+% batC	-63.39286
+
+dt_ms	39108.00
+last_read_micros	8635788
+current_read_micros	8674896
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-1.9553999900
+calculte_milli_coulombs_transffred	-312864.0000000000
+battery_capacity_coulomb	53382.5585937500
+battery_capacity_milli_coulomb	53382560
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-37.09220
+% bat	49428.29687
+% batA	0.00000
+% batB	-200.00000
+% batC	-204.24107
+
+dt_ms	42152.00
+last_read_micros	8674896
+current_read_micros	8717048
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.1075999736
+calculte_milli_coulombs_transffred	-337216.0312500000
+battery_capacity_coulomb	53397.3750000000
+battery_capacity_milli_coulomb	53397376
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-37.04642
+% bat	49442.01562
+% batA	0.00000
+% batB	-100.00000
+% batC	-100.89286
+
+dt_ms	42160.00
+last_read_micros	8717048
+current_read_micros	8759208
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1080000400
+calculte_milli_coulombs_transffred	-337280.0312500000
+battery_capacity_coulomb	53387.8398437500
+battery_capacity_milli_coulomb	53387840
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-37.07694
+% bat	49433.18359
+% batA	0.00000
+% batB	-100.00000
+% batC	-167.41072
+
+dt_ms	42156.00
+last_read_micros	8759208
+current_read_micros	8801364
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1078000068
+calculte_milli_coulombs_transffred	-337248.0312500000
+battery_capacity_coulomb	53378.2382812500
+battery_capacity_milli_coulomb	53378240
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-37.10440
+% bat	49424.29687
+% batA	0.00000
+% batB	200.00000
+% batC	222.76785
+
+dt_ms	41988.00
+last_read_micros	8801364
+current_read_micros	8843352
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.0994000434
+calculte_milli_coulombs_transffred	-335904.0312500000
+battery_capacity_coulomb	53368.6718750000
+battery_capacity_milli_coulomb	53368672
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-37.13492
+% bat	49415.44140
+% batA	0.00000
+% batB	100.00000
+% batC	156.02677
+
+dt_ms	41996.00
+last_read_micros	8843352
+current_read_micros	8885348
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0998001098
+calculte_milli_coulombs_transffred	-335968.0312500000
+battery_capacity_coulomb	53360.4492187500
+battery_capacity_milli_coulomb	53360448
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-37.15933
+% bat	49407.82031
+% batA	0.00000
+% batB	0.00000
+% batC	98.66072
+
+BAT PERCENT
+49.40 %
+dt_ms	76184.00
+last_read_micros	8885348
+current_read_micros	8961532
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-3.8092000961
+calculte_milli_coulombs_transffred	-609472.0000000000
+battery_capacity_coulomb	53352.1601562500
+battery_capacity_milli_coulomb	53352160
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-37.18375
+% bat	49400.14843
+% batA	0.00000
+% batB	0.00000
+% batC	40.84821
+
+dt_ms	39024.00
+last_read_micros	8961532
+current_read_micros	9000556
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-1.9512000083
+calculte_milli_coulombs_transffred	-312192.0000000000
+battery_capacity_coulomb	53332.5117187500
+battery_capacity_milli_coulomb	53332512
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-37.24479
+% bat	49381.95312
+% batA	0.00000
+% batB	0.00000
+% batC	-96.20536
+
+dt_ms	41812.00
+last_read_micros	9000556
+current_read_micros	9042368
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0906000137
+calculte_milli_coulombs_transffred	-334496.0312500000
+battery_capacity_coulomb	53348.0000000000
+battery_capacity_milli_coulomb	53348000
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-37.19596
+% bat	49396.29296
+% batA	0.00000
+% batB	0.00000
+% batC	11.83036
+
+dt_ms	41736.00
+last_read_micros	9042368
+current_read_micros	9084104
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0868000984
+calculte_milli_coulombs_transffred	-333888.0312500000
+battery_capacity_coulomb	53341.1835937500
+battery_capacity_milli_coulomb	53341184
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-37.21732
+% bat	49389.98437
+% batA	0.00000
+% batB	0.00000
+% batC	-35.71429
+
+dt_ms	41824.00
+last_read_micros	9084104
+current_read_micros	9125928
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.0912001132
+calculte_milli_coulombs_transffred	-334592.0312500000
+battery_capacity_coulomb	53334.9765625000
+battery_capacity_milli_coulomb	53334976
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-37.23868
+% bat	49384.23828
+% batA	0.00000
+% batB	0.00000
+% batC	-79.01786
+
+dt_ms	41816.00
+last_read_micros	9125928
+current_read_micros	9167744
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0908000469
+calculte_milli_coulombs_transffred	-334528.0312500000
+battery_capacity_coulomb	53328.0625000000
+battery_capacity_milli_coulomb	53328064
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-37.25699
+% bat	49377.83984
+% batA	0.00000
+% batB	-100.00000
+% batC	-127.23214
+
+dt_ms	42164.00
+last_read_micros	9167744
+current_read_micros	9209908
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1082000732
+calculte_milli_coulombs_transffred	-337312.0312500000
+battery_capacity_coulomb	53321.2148437500
+battery_capacity_milli_coulomb	53321216
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-37.27836
+% bat	49371.50000
+% batA	0.00000
+% batB	-100.00000
+% batC	-175.00000
+
+BAT PERCENT
+49.36 %
+dt_ms	76608.00
+last_read_micros	9209908
+current_read_micros	9286516
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-3.8303999900
+calculte_milli_coulombs_transffred	-612864.0000000000
+battery_capacity_coulomb	53311.5859375000
+battery_capacity_milli_coulomb	53311584
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-37.30887
+% bat	49362.57812
+% batA	0.00000
+% batB	200.00000
+% batC	214.95535
+
+dt_ms	39272.00
+last_read_micros	9286516
+current_read_micros	9325788
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-1.9636000633
+calculte_milli_coulombs_transffred	-314176.0000000000
+battery_capacity_coulomb	53288.5429687500
+battery_capacity_milli_coulomb	53288544
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-37.37907
+% bat	49341.24218
+% batA	0.00000
+% batB	0.00000
+% batC	54.24107
+
+dt_ms	41732.00
+last_read_micros	9325788
+current_read_micros	9367520
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0866000652
+calculte_milli_coulombs_transffred	-333856.0312500000
+battery_capacity_coulomb	53302.0468750000
+battery_capacity_milli_coulomb	53302048
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-37.33634
+% bat	49353.75000
+% batA	0.00000
+% batB	100.00000
+% batC	148.43750
+
+dt_ms	41992.00
+last_read_micros	9367520
+current_read_micros	9409512
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0996000766
+calculte_milli_coulombs_transffred	-335936.0312500000
+battery_capacity_coulomb	53295.8710937500
+battery_capacity_milli_coulomb	53295872
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-37.35771
+% bat	49348.03125
+% batA	0.00000
+% batB	100.00000
+% batC	105.35714
+
+dt_ms	41988.00
+last_read_micros	9409512
+current_read_micros	9451500
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.0994000434
+calculte_milli_coulombs_transffred	-335904.0312500000
+battery_capacity_coulomb	53287.6171875000
+battery_capacity_milli_coulomb	53287616
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-37.38212
+% bat	49340.39062
+% batA	0.00000
+% batB	0.00000
+% batC	47.76786
+
+dt_ms	41736.00
+last_read_micros	9451500
+current_read_micros	9493236
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0868000984
+calculte_milli_coulombs_transffred	-333888.0312500000
+battery_capacity_coulomb	53279.3906250000
+battery_capacity_milli_coulomb	53279392
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-37.40653
+% bat	49332.76562
+% batA	0.00000
+% batB	0.00000
+% batC	-9.59821
+
+dt_ms	41736.00
+last_read_micros	9493236
+current_read_micros	9534972
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0868000984
+calculte_milli_coulombs_transffred	-333888.0312500000
+battery_capacity_coulomb	53273.1835937500
+battery_capacity_milli_coulomb	53273184
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-37.42485
+% bat	49327.02343
+% batA	0.00000
+% batB	0.00000
+% batC	-52.90179
+
+BAT PERCENT
+49.32 %
+dt_ms	76248.00
+last_read_micros	9534972
+current_read_micros	9611220
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-3.8124000549
+calculte_milli_coulombs_transffred	-609984.0000000000
+battery_capacity_coulomb	53266.9765625000
+battery_capacity_milli_coulomb	53266976
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-37.44621
+% bat	49321.27343
+% batA	0.00000
+% batB	0.00000
+% batC	-96.20536
+
+dt_ms	39096.00
+last_read_micros	9611220
+current_read_micros	9650316
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-1.9548000335
+calculte_milli_coulombs_transffred	-312768.0000000000
+battery_capacity_coulomb	53246.8164062500
+battery_capacity_milli_coulomb	53246816
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-37.50725
+% bat	49302.60937
+% batA	0.00000
+% batB	200.00000
+% batC	220.31250
+
+dt_ms	42004.00
+last_read_micros	9650316
+current_read_micros	9692320
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.1001999378
+calculte_milli_coulombs_transffred	-336032.0312500000
+battery_capacity_coulomb	53261.7265625000
+battery_capacity_milli_coulomb	53261728
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-37.46147
+% bat	49316.41406
+% batA	0.00000
+% batB	-100.00000
+% batC	-132.81250
+
+dt_ms	42148.00
+last_read_micros	9692320
+current_read_micros	9734468
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1073999404
+calculte_milli_coulombs_transffred	-337184.0312500000
+battery_capacity_coulomb	53253.3750000000
+battery_capacity_milli_coulomb	53253376
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-37.48588
+% bat	49308.67968
+% batA	0.00000
+% batB	-100.00000
+% batC	-191.07142
+
+dt_ms	42160.00
+last_read_micros	9734468
+current_read_micros	9776628
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.1080000400
+calculte_milli_coulombs_transffred	-337280.0312500000
+battery_capacity_coulomb	53243.8710937500
+battery_capacity_milli_coulomb	53243872
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-37.51640
+% bat	49299.88281
+% batA	0.00000
+% batB	100.00000
+% batC	199.77677
+
+dt_ms	41992.00
+last_read_micros	9776628
+current_read_micros	9818620
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0996000766
+calculte_milli_coulombs_transffred	-335936.0312500000
+battery_capacity_coulomb	53234.2734375000
+battery_capacity_milli_coulomb	53234272
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-37.54387
+% bat	49290.99218
+% batA	0.00000
+% batB	100.00000
+% batC	132.81250
+
+dt_ms	41992.00
+last_read_micros	9818620
+current_read_micros	9860612
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0996000766
+calculte_milli_coulombs_transffred	-335936.0312500000
+battery_capacity_coulomb	53226.0156250000
+battery_capacity_milli_coulomb	53226016
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-37.56829
+% bat	49283.34765
+% batA	0.00000
+% batB	0.00000
+% batC	75.22322
+
+BAT PERCENT
+49.28 %
+dt_ms	76192.00
+last_read_micros	9860612
+current_read_micros	9936804
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-3.8095998764
+calculte_milli_coulombs_transffred	-609536.0000000000
+battery_capacity_coulomb	53217.7617187500
+battery_capacity_milli_coulomb	53217760
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-37.59575
+% bat	49275.70312
+% batA	0.00000
+% batB	0.00000
+% batC	17.63393
+
+dt_ms	39020.00
+last_read_micros	9936804
+current_read_micros	9975824
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-1.9510000228
+calculte_milli_coulombs_transffred	-312160.0000000000
+battery_capacity_coulomb	53198.0468750000
+battery_capacity_milli_coulomb	53198048
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-37.65373
+% bat	49257.45312
+% batA	0.00000
+% batB	-100.00000
+% batC	-119.86608
+
+dt_ms	42160.00
+last_read_micros	9975824
+current_read_micros	10017984
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1080000400
+calculte_milli_coulombs_transffred	-337280.0312500000
+battery_capacity_coulomb	53213.5664062500
+battery_capacity_milli_coulomb	53213568
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-37.60796
+% bat	49271.82421
+% batA	0.00000
+% batB	0.00000
+% batC	-11.60714
+
+dt_ms	41900.00
+last_read_micros	10017984
+current_read_micros	10059884
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.0950000286
+calculte_milli_coulombs_transffred	-335200.0312500000
+battery_capacity_coulomb	53203.9687500000
+battery_capacity_milli_coulomb	53203968
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-37.63848
+% bat	49262.93359
+% batA	0.00000
+% batB	0.00000
+% batC	-78.57143
+
+dt_ms	41988.00
+last_read_micros	10059884
+current_read_micros	10101872
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0994000434
+calculte_milli_coulombs_transffred	-335904.0312500000
+battery_capacity_coulomb	53196.4492187500
+battery_capacity_milli_coulomb	53196448
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-37.65984
+% bat	49255.96875
+% batA	0.00000
+% batB	-100.00000
+% batC	-131.02677
+
+dt_ms	42332.00
+last_read_micros	10101872
+current_read_micros	10144204
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1166000366
+calculte_milli_coulombs_transffred	-338656.0312500000
+battery_capacity_coulomb	53188.2226562500
+battery_capacity_milli_coulomb	53188224
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-37.68425
+% bat	49248.35546
+% batA	0.00000
+% batB	-100.00000
+% batC	-188.39285
+
+dt_ms	42328.00
+last_read_micros	10144204
+current_read_micros	10186532
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1164000034
+calculte_milli_coulombs_transffred	-338624.0312500000
+battery_capacity_coulomb	53177.2460937500
+battery_capacity_milli_coulomb	53177248
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-37.71783
+% bat	49238.19140
+% batA	0.00000
+% batB	100.00000
+% batC	192.18750
+
+BAT PERCENT
+49.23 %
+dt_ms	76628.00
+last_read_micros	10186532
+current_read_micros	10263160
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-3.8313999176
+calculte_milli_coulombs_transffred	-613024.0000000000
+battery_capacity_coulomb	53166.3046875000
+battery_capacity_milli_coulomb	53166304
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-37.75139
+% bat	49228.06250
+% batA	0.00000
+% batB	100.00000
+% batC	115.84822
+
+dt_ms	39440.00
+last_read_micros	10263160
+current_read_micros	10302600
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-1.9720000267
+calculte_milli_coulombs_transffred	-315520.0000000000
+battery_capacity_coulomb	53143.1054687500
+battery_capacity_milli_coulomb	53143104
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-37.82159
+% bat	49206.57812
+% batA	0.00000
+% batB	0.00000
+% batC	-45.98214
+
+dt_ms	41996.00
+last_read_micros	10302600
+current_read_micros	10344596
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0998001098
+calculte_milli_coulombs_transffred	-335968.0312500000
+battery_capacity_coulomb	53155.2656250000
+battery_capacity_milli_coulomb	53155264
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-37.78496
+% bat	49217.83984
+% batA	0.00000
+% batB	0.00000
+% batC	38.83929
+
+dt_ms	41900.00
+last_read_micros	10344596
+current_read_micros	10386496
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.0950000286
+calculte_milli_coulombs_transffred	-335200.0312500000
+battery_capacity_coulomb	53146.9765625000
+battery_capacity_milli_coulomb	53146976
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-37.81243
+% bat	49210.16406
+% batA	0.00000
+% batB	0.00000
+% batC	-18.97322
+
+dt_ms	41988.00
+last_read_micros	10386496
+current_read_micros	10428484
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0994000434
+calculte_milli_coulombs_transffred	-335904.0312500000
+battery_capacity_coulomb	53139.4570312500
+battery_capacity_milli_coulomb	53139456
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-37.83380
+% bat	49203.20312
+% batA	0.00000
+% batB	0.00000
+% batC	-71.42858
+
+dt_ms	41988.00
+last_read_micros	10428484
+current_read_micros	10470472
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0994000434
+calculte_milli_coulombs_transffred	-335904.0312500000
+battery_capacity_coulomb	53131.2304687500
+battery_capacity_milli_coulomb	53131232
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-37.85821
+% bat	49195.58593
+% batA	0.00000
+% batB	-100.00000
+% batC	-128.79464
+
+dt_ms	42332.00
+last_read_micros	10470472
+current_read_micros	10512804
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1166000366
+calculte_milli_coulombs_transffred	-338656.0312500000
+battery_capacity_coulomb	53123.0078125000
+battery_capacity_milli_coulomb	53123008
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-37.88262
+% bat	49187.97265
+% batA	0.00000
+% batB	-100.00000
+% batC	-186.16072
+
+BAT PERCENT
+49.18 %
+dt_ms	76772.00
+last_read_micros	10512804
+current_read_micros	10589576
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-3.8385999679
+calculte_milli_coulombs_transffred	-614176.0000000000
+battery_capacity_coulomb	53112.0312500000
+battery_capacity_milli_coulomb	53112032
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-37.91619
+% bat	49177.80859
+% batA	0.00000
+% batB	100.00000
+% batC	194.41964
+
+dt_ms	39440.00
+last_read_micros	10589576
+current_read_micros	10629016
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-1.9720000267
+calculte_milli_coulombs_transffred	-315520.0000000000
+battery_capacity_coulomb	53087.6796875000
+battery_capacity_milli_coulomb	53087680
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-37.99249
+% bat	49155.26171
+% batA	0.00000
+% batB	0.00000
+% batC	24.55357
+
+dt_ms	41904.00
+last_read_micros	10629016
+current_read_micros	10670920
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0952000617
+calculte_milli_coulombs_transffred	-335232.0312500000
+battery_capacity_coulomb	53099.8398437500
+battery_capacity_milli_coulomb	53099840
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-37.95587
+% bat	49166.51562
+% batA	0.00000
+% batB	100.00000
+% batC	109.37500
+
+dt_ms	42152.00
+last_read_micros	10670920
+current_read_micros	10713072
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1075999736
+calculte_milli_coulombs_transffred	-337216.0312500000
+battery_capacity_coulomb	53092.2890625000
+battery_capacity_milli_coulomb	53092288
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-37.97723
+% bat	49159.52734
+% batA	0.00000
+% batB	0.00000
+% batC	56.69643
+
+dt_ms	41912.00
+last_read_micros	10713072
+current_read_micros	10754984
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0955998897
+calculte_milli_coulombs_transffred	-335296.0312500000
+battery_capacity_coulomb	53082.7539062500
+battery_capacity_milli_coulomb	53082752
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-38.00775
+% bat	49150.69531
+% batA	0.00000
+% batB	0.00000
+% batC	-9.82143
+
+dt_ms	41908.00
+last_read_micros	10754984
+current_read_micros	10796892
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0954000949
+calculte_milli_coulombs_transffred	-335264.0312500000
+battery_capacity_coulomb	53075.1367187500
+battery_capacity_milli_coulomb	53075136
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-38.02911
+% bat	49143.64453
+% batA	0.00000
+% batB	0.00000
+% batC	-62.94643
+
+dt_ms	41988.00
+last_read_micros	10796892
+current_read_micros	10838880
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0994000434
+calculte_milli_coulombs_transffred	-335904.0312500000
+battery_capacity_coulomb	53067.5507812500
+battery_capacity_milli_coulomb	53067552
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-38.05353
+% bat	49136.62109
+% batA	0.00000
+% batB	-100.00000
+% batC	-115.84822
+
+BAT PERCENT
+49.13 %
+dt_ms	76792.00
+last_read_micros	10838880
+current_read_micros	10915672
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-3.8396000862
+calculte_milli_coulombs_transffred	-614336.0000000000
+battery_capacity_coulomb	53059.3281250000
+battery_capacity_milli_coulomb	53059328
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-38.07794
+% bat	49129.00781
+% batA	0.00000
+% batB	-100.00000
+% batC	-173.21427
+
+dt_ms	39608.00
+last_read_micros	10915672
+current_read_micros	10955280
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-1.9803999900
+calculte_milli_coulombs_transffred	-316864.0000000000
+battery_capacity_coulomb	53034.8164062500
+battery_capacity_milli_coulomb	53034816
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-38.15424
+% bat	49106.30859
+% batA	0.00000
+% batB	100.00000
+% batC	112.94643
+
+dt_ms	42160.00
+last_read_micros	10955280
+current_read_micros	10997440
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1080000400
+calculte_milli_coulombs_transffred	-337280.0312500000
+battery_capacity_coulomb	53045.6328125000
+battery_capacity_milli_coulomb	53045632
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-38.12067
+% bat	49116.32421
+% batA	0.00000
+% batB	100.00000
+% batC	188.39285
+
+dt_ms	42160.00
+last_read_micros	10997440
+current_read_micros	11039600
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1080000400
+calculte_milli_coulombs_transffred	-337280.0312500000
+battery_capacity_coulomb	53036.0312500000
+battery_capacity_milli_coulomb	53036032
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-38.14813
+% bat	49107.43750
+% batA	0.00000
+% batB	100.00000
+% batC	121.42858
+
+dt_ms	42164.00
+last_read_micros	11039600
+current_read_micros	11081764
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1082000732
+calculte_milli_coulombs_transffred	-337312.0312500000
+battery_capacity_coulomb	53026.4335937500
+battery_capacity_milli_coulomb	53026432
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-38.17865
+% bat	49098.55078
+% batA	0.00000
+% batB	0.00000
+% batC	54.46429
+
+dt_ms	41900.00
+last_read_micros	11081764
+current_read_micros	11123664
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0950000286
+calculte_milli_coulombs_transffred	-335200.0312500000
+battery_capacity_coulomb	53016.8007812500
+battery_capacity_milli_coulomb	53016800
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-38.20917
+% bat	49089.62890
+% batA	0.00000
+% batB	0.00000
+% batC	-12.72321
+
+dt_ms	41992.00
+last_read_micros	11123664
+current_read_micros	11165656
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.0996000766
+calculte_milli_coulombs_transffred	-335936.0312500000
+battery_capacity_coulomb	53009.2812500000
+battery_capacity_milli_coulomb	53009280
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-38.23054
+% bat	49082.66796
+% batA	0.00000
+% batB	0.00000
+% batC	-65.17858
+
+BAT PERCENT
+49.08 %
+dt_ms	76460.00
+last_read_micros	11165656
+current_read_micros	11242116
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-3.8229999542
+calculte_milli_coulombs_transffred	-611680.0000000000
+battery_capacity_coulomb	53001.0234375000
+battery_capacity_milli_coulomb	53001024
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-38.25495
+% bat	49075.01953
+% batA	0.00000
+% batB	-100.00000
+% batC	-122.76786
+
+dt_ms	39604.00
+last_read_micros	11242116
+current_read_micros	11281720
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-1.9802000045
+calculte_milli_coulombs_transffred	-316832.0000000000
+battery_capacity_coulomb	52979.1679687500
+battery_capacity_milli_coulomb	52979168
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-38.32209
+% bat	49054.78515
+% batA	0.00000
+% batB	100.00000
+% batC	181.91964
+
+dt_ms	42168.00
+last_read_micros	11281720
+current_read_micros	11323888
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.1084001064
+calculte_milli_coulombs_transffred	-337344.0312500000
+battery_capacity_coulomb	52990.0156250000
+battery_capacity_milli_coulomb	52990016
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-38.28852
+% bat	49064.82812
+% batA	0.00000
+% batB	-100.00000
+% batC	-199.55357
+
+dt_ms	42328.00
+last_read_micros	11323888
+current_read_micros	11366216
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1164000034
+calculte_milli_coulombs_transffred	-338624.0312500000
+battery_capacity_coulomb	52980.3515625000
+battery_capacity_milli_coulomb	52980352
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-38.31904
+% bat	49055.88281
+% batA	0.00000
+% batB	100.00000
+% batC	190.17857
+
+dt_ms	42160.00
+last_read_micros	11366216
+current_read_micros	11408376
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1080000400
+calculte_milli_coulombs_transffred	-337280.0312500000
+battery_capacity_coulomb	52969.4062500000
+battery_capacity_milli_coulomb	52969408
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-38.35261
+% bat	49045.75000
+% batA	0.00000
+% batB	100.00000
+% batC	113.83929
+
+dt_ms	42168.00
+last_read_micros	11408376
+current_read_micros	11450544
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1084001064
+calculte_milli_coulombs_transffred	-337344.0312500000
+battery_capacity_coulomb	52959.8085937500
+battery_capacity_milli_coulomb	52959808
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-38.38313
+% bat	49036.85937
+% batA	0.00000
+% batB	0.00000
+% batC	46.87500
+
+dt_ms	41900.00
+last_read_micros	11450544
+current_read_micros	11492444
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0950000286
+calculte_milli_coulombs_transffred	-335200.0312500000
+battery_capacity_coulomb	52950.1445312500
+battery_capacity_milli_coulomb	52950144
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-38.41059
+% bat	49027.91406
+% batA	0.00000
+% batB	0.00000
+% batC	-20.53572
+
+BAT PERCENT
+49.02 %
+dt_ms	76424.00
+last_read_micros	11492444
+current_read_micros	11568868
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-3.8211998939
+calculte_milli_coulombs_transffred	-611392.0000000000
+battery_capacity_coulomb	52942.6250000000
+battery_capacity_milli_coulomb	52942624
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-38.43501
+% bat	49020.94531
+% batA	0.00000
+% batB	0.00000
+% batC	-72.99108
+
+dt_ms	39272.00
+last_read_micros	11568868
+current_read_micros	11608140
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-1.9636000633
+calculte_milli_coulombs_transffred	-314176.0000000000
+battery_capacity_coulomb	52921.0546875000
+battery_capacity_milli_coulomb	52921056
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-38.49910
+% bat	49000.98046
+% batA	0.00000
+% batB	-200.00000
+% batC	-223.43750
+
+dt_ms	42328.00
+last_read_micros	11608140
+current_read_micros	11650468
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1164000034
+calculte_milli_coulombs_transffred	-338624.0312500000
+battery_capacity_coulomb	52934.5585937500
+battery_capacity_milli_coulomb	52934560
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-38.45943
+% bat	49013.48046
+% batA	0.00000
+% batB	-100.00000
+% batC	-129.24107
+
+dt_ms	42332.00
+last_read_micros	11650468
+current_read_micros	11692800
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1166000366
+calculte_milli_coulombs_transffred	-338656.0312500000
+battery_capacity_coulomb	52923.6171875000
+battery_capacity_milli_coulomb	52923616
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-38.49300
+% bat	49003.34765
+% batA	0.00000
+% batB	-200.00000
+% batC	-205.58035
+
+dt_ms	42328.00
+last_read_micros	11692800
+current_read_micros	11735128
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1164000034
+calculte_milli_coulombs_transffred	-338624.0312500000
+battery_capacity_coulomb	52912.6406250000
+battery_capacity_milli_coulomb	52912640
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-38.52656
+% bat	48993.18750
+% batA	0.00000
+% batB	100.00000
+% batC	175.00000
+
+dt_ms	42160.00
+last_read_micros	11735128
+current_read_micros	11777288
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1080000400
+calculte_milli_coulombs_transffred	-337280.0312500000
+battery_capacity_coulomb	52901.6953125000
+battery_capacity_milli_coulomb	52901696
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-38.56013
+% bat	48983.05078
+% batA	0.00000
+% batB	0.00000
+% batC	98.66072
+
+dt_ms	41916.00
+last_read_micros	11777288
+current_read_micros	11819204
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0957999229
+calculte_milli_coulombs_transffred	-335328.0312500000
+battery_capacity_coulomb	52892.0976562500
+battery_capacity_milli_coulomb	52892096
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-38.58760
+% bat	48974.16796
+% batA	0.00000
+% batB	0.00000
+% batC	31.69643
+
+BAT PERCENT
+48.97 %
+dt_ms	76344.00
+last_read_micros	11819204
+current_read_micros	11895548
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-3.8171998977
+calculte_milli_coulombs_transffred	-610752.0000000000
+battery_capacity_coulomb	52884.4492187500
+battery_capacity_milli_coulomb	52884448
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-38.61202
+% bat	48967.08203
+% batA	0.00000
+% batB	0.00000
+% batC	-21.65179
+
+dt_ms	39268.00
+last_read_micros	11895548
+current_read_micros	11934816
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-1.9633999824
+calculte_milli_coulombs_transffred	-314144.0000000000
+battery_capacity_coulomb	52863.5195312500
+battery_capacity_milli_coulomb	52863520
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-38.67610
+% bat	48947.70312
+% batA	0.00000
+% batB	-100.00000
+% batC	-167.63392
+
+dt_ms	42332.00
+last_read_micros	11934816
+current_read_micros	11977148
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1166000366
+calculte_milli_coulombs_transffred	-338656.0312500000
+battery_capacity_coulomb	52877.0546875000
+battery_capacity_milli_coulomb	52877056
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-38.63338
+% bat	48960.23437
+% batA	0.00000
+% batB	0.00000
+% batC	-73.21429
+
+dt_ms	41988.00
+last_read_micros	11977148
+current_read_micros	12019136
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0994000434
+calculte_milli_coulombs_transffred	-335904.0312500000
+battery_capacity_coulomb	52866.0781250000
+battery_capacity_milli_coulomb	52866080
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-38.66695
+% bat	48950.07421
+% batA	0.00000
+% batB	-100.00000
+% batC	-149.77677
+
+dt_ms	42332.00
+last_read_micros	12019136
+current_read_micros	12061468
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1166000366
+calculte_milli_coulombs_transffred	-338656.0312500000
+battery_capacity_coulomb	52857.8554687500
+battery_capacity_milli_coulomb	52857856
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-38.69442
+% bat	48942.46093
+% batA	0.00000
+% batB	-200.00000
+% batC	-207.14285
+
+dt_ms	42328.00
+last_read_micros	12061468
+current_read_micros	12103796
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1164000034
+calculte_milli_coulombs_transffred	-338624.0312500000
+battery_capacity_coulomb	52846.8789062500
+battery_capacity_milli_coulomb	52846880
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-38.72799
+% bat	48932.29687
+% batA	0.00000
+% batB	100.00000
+% batC	173.43750
+
+dt_ms	42160.00
+last_read_micros	12103796
+current_read_micros	12145956
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1080000400
+calculte_milli_coulombs_transffred	-337280.0312500000
+battery_capacity_coulomb	52835.9375000000
+battery_capacity_milli_coulomb	52835936
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-38.76156
+% bat	48922.16406
+% batA	0.00000
+% batB	0.00000
+% batC	97.09822
+
+BAT PERCENT
+48.91 %
+dt_ms	76368.00
+last_read_micros	12145956
+current_read_micros	12222324
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-3.8183999061
+calculte_milli_coulombs_transffred	-610944.0000000000
+battery_capacity_coulomb	52826.3359375000
+battery_capacity_milli_coulomb	52826336
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-38.78902
+% bat	48913.27734
+% batA	0.00000
+% batB	0.00000
+% batC	30.13393
+
+dt_ms	39192.00
+last_read_micros	12222324
+current_read_micros	12261516
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-1.9595999717
+calculte_milli_coulombs_transffred	-313536.0000000000
+battery_capacity_coulomb	52805.2148437500
+battery_capacity_milli_coulomb	52805216
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-38.85311
+% bat	48893.71875
+% batA	0.00000
+% batB	-100.00000
+% batC	-117.18750
+
+dt_ms	42324.00
+last_read_micros	12261516
+current_read_micros	12303840
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1161999702
+calculte_milli_coulombs_transffred	-338592.0312500000
+battery_capacity_coulomb	52819.3593750000
+battery_capacity_milli_coulomb	52819360
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-38.81039
+% bat	48906.81640
+% batA	0.00000
+% batB	0.00000
+% batC	-18.52679
+
+dt_ms	41988.00
+last_read_micros	12303840
+current_read_micros	12345828
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0994000434
+calculte_milli_coulombs_transffred	-335904.0312500000
+battery_capacity_coulomb	52808.4492187500
+battery_capacity_milli_coulomb	52808448
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-38.84396
+% bat	48896.71093
+% batA	0.00000
+% batB	0.00000
+% batC	-94.64286
+
+dt_ms	41992.00
+last_read_micros	12345828
+current_read_micros	12387820
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0996000766
+calculte_milli_coulombs_transffred	-335936.0312500000
+battery_capacity_coulomb	52800.2226562500
+battery_capacity_milli_coulomb	52800224
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-38.86837
+% bat	48889.09765
+% batA	0.00000
+% batB	-100.00000
+% batC	-152.00892
+
+dt_ms	42328.00
+last_read_micros	12387820
+current_read_micros	12430148
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1164000034
+calculte_milli_coulombs_transffred	-338624.0312500000
+battery_capacity_coulomb	52791.9687500000
+battery_capacity_milli_coulomb	52791968
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-38.89584
+% bat	48881.44921
+% batA	0.00000
+% batB	-200.00000
+% batC	-209.59822
+
+dt_ms	42340.00
+last_read_micros	12430148
+current_read_micros	12472488
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1170001029
+calculte_milli_coulombs_transffred	-338720.0312500000
+battery_capacity_coulomb	52781.0234375000
+battery_capacity_milli_coulomb	52781024
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-38.92636
+% bat	48871.32031
+% batA	0.00000
+% batB	100.00000
+% batC	171.20535
+
+BAT PERCENT
+48.86 %
+dt_ms	76588.00
+last_read_micros	12472488
+current_read_micros	12549076
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-3.8294000625
+calculte_milli_coulombs_transffred	-612704.0000000000
+battery_capacity_coulomb	52769.9843750000
+battery_capacity_milli_coulomb	52769984
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-38.96298
+% bat	48861.09765
+% batA	0.00000
+% batB	0.00000
+% batC	94.19643
+
+dt_ms	39184.00
+last_read_micros	12549076
+current_read_micros	12588260
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-1.9592000007
+calculte_milli_coulombs_transffred	-313472.0000000000
+battery_capacity_coulomb	52747.1054687500
+battery_capacity_milli_coulomb	52747104
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-39.03012
+% bat	48839.91406
+% batA	0.00000
+% batB	0.00000
+% batC	-65.40179
+
+dt_ms	41992.00
+last_read_micros	12588260
+current_read_micros	12630252
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0996000766
+calculte_milli_coulombs_transffred	-335936.0312500000
+battery_capacity_coulomb	52761.3125000000
+battery_capacity_milli_coulomb	52761312
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-38.98740
+% bat	48853.07031
+% batA	0.00000
+% batB	0.00000
+% batC	33.70536
+
+dt_ms	41912.00
+last_read_micros	12630252
+current_read_micros	12672164
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0955998897
+calculte_milli_coulombs_transffred	-335296.0312500000
+battery_capacity_coulomb	52753.0546875000
+battery_capacity_milli_coulomb	52753056
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-39.01181
+% bat	48845.42187
+% batA	0.00000
+% batB	0.00000
+% batC	-23.88393
+
+dt_ms	41992.00
+last_read_micros	12672164
+current_read_micros	12714156
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0996000766
+calculte_milli_coulombs_transffred	-335936.0312500000
+battery_capacity_coulomb	52745.4414062500
+battery_capacity_milli_coulomb	52745440
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-39.03622
+% bat	48838.37109
+% batA	0.00000
+% batB	0.00000
+% batC	-77.00893
+
+dt_ms	41988.00
+last_read_micros	12714156
+current_read_micros	12756144
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0994000434
+calculte_milli_coulombs_transffred	-335904.0312500000
+battery_capacity_coulomb	52737.1835937500
+battery_capacity_milli_coulomb	52737184
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-39.06064
+% bat	48830.72656
+% batA	0.00000
+% batB	-100.00000
+% batC	-134.59822
+
+dt_ms	42320.00
+last_read_micros	12756144
+current_read_micros	12798464
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1159999370
+calculte_milli_coulombs_transffred	-338560.0312500000
+battery_capacity_coulomb	52728.9609375000
+battery_capacity_milli_coulomb	52728960
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-39.08811
+% bat	48823.11328
+% batA	0.00000
+% batB	-100.00000
+% batC	-191.96427
+
+BAT PERCENT
+48.81 %
+dt_ms	76760.00
+last_read_micros	12798464
+current_read_micros	12875224
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-3.8380001068
+calculte_milli_coulombs_transffred	-614080.0000000000
+battery_capacity_coulomb	52718.0781250000
+battery_capacity_milli_coulomb	52718080
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-39.11862
+% bat	48813.03906
+% batA	0.00000
+% batB	100.00000
+% batC	189.28572
+
+dt_ms	39440.00
+last_read_micros	12875224
+current_read_micros	12914664
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-1.9720000267
+calculte_milli_coulombs_transffred	-315520.0000000000
+battery_capacity_coulomb	52693.8242187500
+battery_capacity_milli_coulomb	52693824
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-39.19492
+% bat	48790.57812
+% batA	0.00000
+% batB	0.00000
+% batC	20.08929
+
+dt_ms	41904.00
+last_read_micros	12914664
+current_read_micros	12956568
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0952000617
+calculte_milli_coulombs_transffred	-335232.0312500000
+battery_capacity_coulomb	52705.9843750000
+battery_capacity_milli_coulomb	52705984
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-39.15830
+% bat	48801.83984
+% batA	0.00000
+% batB	100.00000
+% batC	104.91072
+
+dt_ms	42152.00
+last_read_micros	12956568
+current_read_micros	12998720
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.1075999736
+calculte_milli_coulombs_transffred	-337216.0312500000
+battery_capacity_coulomb	52698.4335937500
+battery_capacity_milli_coulomb	52698432
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-39.17966
+% bat	48794.83984
+% batA	0.00000
+% batB	0.00000
+% batC	52.23214
+
+dt_ms	41904.00
+last_read_micros	12998720
+current_read_micros	13040624
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.0952000617
+calculte_milli_coulombs_transffred	-335232.0312500000
+battery_capacity_coulomb	52688.8945312500
+battery_capacity_milli_coulomb	52688896
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-39.21018
+% bat	48786.01562
+% batA	0.00000
+% batB	0.00000
+% batC	-14.28571
+
+dt_ms	42004.00
+last_read_micros	13040624
+current_read_micros	13082628
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1001999378
+calculte_milli_coulombs_transffred	-336032.0312500000
+battery_capacity_coulomb	52681.3437500000
+battery_capacity_milli_coulomb	52681344
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-39.23154
+% bat	48779.02343
+% batA	0.00000
+% batB	0.00000
+% batC	-66.96429
+
+dt_ms	41992.00
+last_read_micros	13082628
+current_read_micros	13124620
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0996000766
+calculte_milli_coulombs_transffred	-335936.0312500000
+battery_capacity_coulomb	52672.9921875000
+battery_capacity_milli_coulomb	52672992
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-39.25901
+% bat	48771.28906
+% batA	0.00000
+% batB	-100.00000
+% batC	-125.22322
+
+BAT PERCENT
+48.76 %
+dt_ms	76756.00
+last_read_micros	13124620
+current_read_micros	13201376
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-3.8378000259
+calculte_milli_coulombs_transffred	-614048.0000000000
+battery_capacity_coulomb	52664.7343750000
+battery_capacity_milli_coulomb	52664736
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-39.28342
+% bat	48763.64062
+% batA	0.00000
+% batB	-100.00000
+% batC	-182.81250
+
+dt_ms	39616.00
+last_read_micros	13201376
+current_read_micros	13240992
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-1.9808000564
+calculte_milli_coulombs_transffred	-316928.0000000000
+battery_capacity_coulomb	52640.5117187500
+battery_capacity_milli_coulomb	52640512
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-39.35667
+% bat	48741.21484
+% batA	0.00000
+% batB	100.00000
+% batC	105.35714
+
+dt_ms	42160.00
+last_read_micros	13240992
+current_read_micros	13283152
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1080000400
+calculte_milli_coulombs_transffred	-337280.0312500000
+battery_capacity_coulomb	52651.2656250000
+battery_capacity_milli_coulomb	52651264
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-39.32310
+% bat	48751.17187
+% batA	0.00000
+% batB	100.00000
+% batC	180.35714
+
+dt_ms	42168.00
+last_read_micros	13283152
+current_read_micros	13325320
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1084001064
+calculte_milli_coulombs_transffred	-337344.0312500000
+battery_capacity_coulomb	52641.6640625000
+battery_capacity_milli_coulomb	52641664
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-39.35362
+% bat	48742.28125
+% batA	0.00000
+% batB	100.00000
+% batC	113.39286
+
+dt_ms	42160.00
+last_read_micros	13325320
+current_read_micros	13367480
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.1080000400
+calculte_milli_coulombs_transffred	-337280.0312500000
+battery_capacity_coulomb	52632.0000000000
+battery_capacity_milli_coulomb	52632000
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-39.38108
+% bat	48733.33593
+% batA	0.00000
+% batB	0.00000
+% batC	45.98214
+
+dt_ms	41892.00
+last_read_micros	13367480
+current_read_micros	13409372
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-2.0945999622
+calculte_milli_coulombs_transffred	-335136.0312500000
+battery_capacity_coulomb	52622.3984375000
+battery_capacity_milli_coulomb	52622400
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-39.41160
+% bat	48724.44140
+% batA	0.00000
+% batB	0.00000
+% batC	-20.98214
+
+dt_ms	41988.00
+last_read_micros	13409372
+current_read_micros	13451360
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-2.0994000434
+calculte_milli_coulombs_transffred	-335904.0312500000
+battery_capacity_coulomb	52614.9453125000
+battery_capacity_milli_coulomb	52614944
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-39.43601
+% bat	48717.53906
+% batA	0.00000
+% batB	0.00000
+% batC	-72.99108
+
+BAT PERCENT
+48.71 %
+dt_ms	76452.00
+last_read_micros	13451360
+current_read_micros	13527812
+shunt_voltage	-0.37
+calculte_coulombs_transffred	-3.8225998878
+calculte_milli_coulombs_transffred	-611616.0000000000
+battery_capacity_coulomb	52606.7187500000
+battery_capacity_milli_coulomb	52606720
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-39.46043
+% bat	48709.92578
+% batA	0.00000
+% batB	-100.00000
+% batC	-130.35714
+
+dt_ms	39608.00
+last_read_micros	13527812
+current_read_micros	13567420
+shunt_voltage	-0.25
+calculte_coulombs_transffred	-1.9803999900
+calculte_milli_coulombs_transffred	-316864.0000000000
+battery_capacity_coulomb	52584.9296875000
+battery_capacity_milli_coulomb	52584928
+BATTERY_CAPACITY_COULOMB	108000000.0000000000
+BATTERY_CAPACITY_MILLI_COULOMB	625817600
+% bat	ovf
+% batA	ovf
+% batB	0.00000
+% batC	-39.52757
+% bat	48689.75000
+% batA	0.00000
+% batB	100.00000
+% batC	174.77677
+
+BAT PERCENT
+47.34 %
+BAT PERCENT
+45.41 %
+BAT PERCENT
+43.48 %
+BAT PERCENT
+41.55 %
+BAT PERCENT
+39.63 %
+BAT PERCENT
+37.70 %
+BAT PERCENT
+35.77 %
+BAT PERCENT
+33.84 %
+BAT PERCENT
+31.91 %
+BAT PERCENT
+29.99 %
+BAT PERCENT
+28.06 %
+BAT PERCENT
+26.13 %
+BAT PERCENT
+24.20 %
+BAT PERCENT
+22.27 %
+BAT PERCENT
+20.35 %
+BAT PERCENT
+18.42 %
+BAT PERCENT
+16.49 %
+BAT PERCENT
+14.56 %
+BAT PERCENT
+12.64 %
+BAT PERCENT
+10.71 %
+BAT PERCENT
+8.78 %
+BAT PERCENT
+6.80 %
+BAT PERCENT
+4.80 %
+BAT PERCENT
+2.83 %
+BAT PERCENT
+0.83 %
+BAT PERCENT
+0.02 %
+BAT PERCENT
+0.01 %
+BAT PERCENT
+0.03 %
+BAT PERCENT
+0.03 %
+BAT PERCENT
+0.03 %
+BAT PERCENT
+0.01 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.02 %
+BAT PERCENT
+0.01 %
+BAT PERCENT
+0.01 %
+BAT PERCENT
+0.01 %
+BAT PERCENT
+0.03 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.02 %
+BAT PERCENT
+0.01 %
+BAT PERCENT
+0.01 %
+BAT PERCENT
+0.03 %
+BAT PERCENT
+0.01 %
+BAT PERCENT
+0.03 %
+BAT PERCENT
+0.01 %
+BAT PERCENT
+0.03 %
+BAT PERCENT
+0.02 %
+BAT PERCENT
+0.02 %
+BAT PERCENT
+0.04 %
+BAT PERCENT
+0.01 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
+BAT PERCENT
+0.00 %
