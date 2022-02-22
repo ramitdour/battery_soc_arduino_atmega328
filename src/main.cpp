@@ -111,25 +111,30 @@ void setup_lcd_i2c()
 
 void setup_7seg_i2c()
 {
+  ;
 }
 
 #endif
 
 void setup_push_buttons()
 {
-}
-
-void setup_analog_read_vbat()
-{
+  ;
 }
 
 #ifdef ANALOG_INPUT_POT
 
 void setup_analog_read_pot()
 {
+  ;
 }
 
 #endif
+
+// Does nothing as of now
+void setup_analog_read_vbat()
+{
+  ;
+}
 
 #ifdef ADS1115_SENSOR
 
@@ -153,6 +158,9 @@ void setup_ads1115()
 
   if (!ads1115.begin())
   {
+    lcd_set_msg("...");
+    delay(5000);
+
 #ifdef DEBUG_CODE
     lcd_set_msg("Failed ADS");
     Serial.println("Failed to initialize ADS.");
@@ -161,11 +169,13 @@ void setup_ads1115()
   }
   else
   {
+    lcd_set_msg("...");
+    delay(700);
+
 #ifdef DEBUG_CODE
     lcd_set_msg("Success ADS");
     Serial.println("Success to initialize ADS.");
     delay(700);
-
 #endif
   }
 }
@@ -176,6 +186,7 @@ void setup_ads1115()
 
 void setup_ina219()
 {
+  ;
 }
 
 #endif
@@ -184,6 +195,7 @@ void setup_ina219()
 
 void print_BatterySocData_h()
 {
+  delay(1000);
   Serial.print("battery_voltage");
   Serial.print("\t");
   Serial.println(battery_voltage);
@@ -242,6 +254,7 @@ void print_BatterySocData_h()
 
   Serial.println("\n\n===================");
 }
+
 #endif
 
 void setup()
@@ -272,7 +285,9 @@ void setup()
   setup_push_buttons();
 
 #ifdef ANALOG_INPUT_POT
+
   setup_analog_read_pot();
+
 #endif
 
 #ifdef ADS1115_SENSOR
@@ -287,8 +302,8 @@ void setup()
 
 #endif
 
-  ticker_update_lcd.start(); // TODO : Find right place to call it
-  last_read_micros = micros();
+  ticker_update_lcd.start();   // TODO : Find right place to call it
+  last_read_micros = micros(); // TODO : Find right place to call it
 }
 
 void analog_read_vbat()
@@ -298,7 +313,12 @@ void analog_read_vbat()
   // *(R2_VOLTAGE_DIVIDER_BATTERY_VOLTAGE/(R2_VOLTAGE_DIVIDER_BATTERY_VOLTAGE + R1_VOLTAGE_DIVIDER_BATTERY_VOLTAGE))
   // v across R2 =  x = (5.0*(analogRead(PIN_ANALOG_BATTERY_VOLTAGE)))/(1023)
 
+  
   battery_voltage = ((5.0 * (analogRead(PIN_ANALOG_BATTERY_VOLTAGE))) / (1023)) * ((R2_VOLTAGE_DIVIDER_BATTERY_VOLTAGE + R1_VOLTAGE_DIVIDER_BATTERY_VOLTAGE) / R2_VOLTAGE_DIVIDER_BATTERY_VOLTAGE);
+
+  // TODO : reduce the nuber of constant in the equation
+  //battery_voltage = 
+  
 }
 
 void show_vbat_lcd()
@@ -307,7 +327,9 @@ void show_vbat_lcd()
   lcd_set_msg(String(battery_voltage, 2) + " V", 1, 0, false, true);
 }
 
+#ifdef DEBUG_CODE
 unsigned long temp_counter = 0; // TODO: delete , and related code also
+#endif
 
 double calculte_milli_coulombs_transffred()
 {
@@ -335,10 +357,16 @@ double calculte_milli_coulombs_transffred()
   //                                           SHUNT_RESISTANCE mOhm
 
   // for testing
+
+#ifdef DEBUG_CODE
+
+  // if hard coded / Pot  used for testing
   double calculte_coulombs_transffred = (-75.0 / (1000.0 * SHUNT_RESISTANCE)) * (dt_ms) * (0.000001);
   double calculte_milli_coulombs_transffred = (map(analogRead(A0), 0, 1023, -8000, 8000) * (dt_ms)) * (0.001);
 
-  // shunt_voltage
+  // if shunt_voltage
+  // double calculte_milli_coulombs_transffred = ((shunt_voltage * dt_ms) / SHUNT_RESISTANCE_MILLI_OHM) * (0.001);
+  // double calculte_coulombs_transffred = calculte_milli_coulombs_transffred / 1000.0;
 
   temp_counter++;
   if (temp_counter < 200)
@@ -399,6 +427,13 @@ double calculte_milli_coulombs_transffred()
 
     Serial.println("");
   }
+
+#else
+
+  // double calculte_milli_coulombs_transffred = ((shunt_voltage / SHUNT_RESISTANCE_MILLI_OHM) * (dt_ms)) * (0.001);
+  double calculte_milli_coulombs_transffred = ((shunt_voltage * dt_ms) / SHUNT_RESISTANCE_MILLI_OHM) * (0.001);
+
+#endif
 
   last_read_micros = current_read_micros;
   return calculte_milli_coulombs_transffred;
@@ -472,13 +507,10 @@ void update_lcd_display()
   }
 }
 
-void read_sensor_data()
+void update_charge_transfer_data()
 {
-  analog_read_vbat();
-  differential_analog_read_ads_vshunt();
 
   // battery_capacity_coulomb += double(calculte_coulombs_transffred());
-
   // battery_capacity_coulomb = long(battery_capacity_coulomb) + long(calculte_coulombs_transffred());
 
   int calculte_milli_coulombs_transffred_temp = int(calculte_milli_coulombs_transffred());
@@ -492,8 +524,13 @@ void read_sensor_data()
 
     battery_capacity_milli_coulomb = 0;
     battery_capacity_coulomb = 0;
-
     flag_battery_fully_drained = true;
+
+#ifdef DEBUG_CODE
+    Serial.println("bat fully drained 0% !!!");
+    Serial.println(battery_capacity_milli_coulomb);
+    Serial.println(battery_capacity_coulomb);
+#endif
   }
   else
   {
@@ -504,14 +541,18 @@ void read_sensor_data()
       battery_capacity_coulomb = uint32_t(BATTERY_CAPACITY_COULOMB);
       flag_battery_fully_charged = true;
 
-      Serial.println("bat fully charged !!!");
+#ifdef DEBUG_CODE
+      Serial.println("bat fully charged 100% !!!");
+      Serial.println(battery_capacity_milli_coulomb);
+      Serial.println(battery_capacity_coulomb);
+#endif
     }
     else
     {
       if ((flag_battery_fully_charged == true && calculte_milli_coulombs_transffred_temp > 0) || (flag_battery_fully_drained == true && calculte_milli_coulombs_transffred_temp < 0))
       {
         // do nothing
-        1 + 1;
+        ;
         // if battery is fully charged and it is trying to over charge
         // or
         // if battery is fully drained and it is trying to over drained
@@ -531,6 +572,17 @@ void read_sensor_data()
   }
 }
 
+void process_and_update_data()
+{
+  update_charge_transfer_data();
+}
+
+void read_sensor_data()
+{
+  analog_read_vbat();
+  differential_analog_read_ads_vshunt();
+}
+
 void ticker_loop()
 {
   ticker_update_lcd.update();
@@ -540,6 +592,8 @@ void loop()
 {
 
   read_sensor_data();
+
+  process_and_update_data();
 
   ticker_loop();
 }

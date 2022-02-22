@@ -29,7 +29,9 @@
 
 #define SHUNT_MAX_VOLTAGE 0.075F // 75mV voltage drop across shunt on Rated current Flow
 #define SHUNT_MAX_CURRENT 50.0F  // 50 A Rated Current of Shunt
-#define SHUNT_RESISTANCE 0.0015F // 1.5mOhm R_shunt = V_max_shunt / I_max_shunt === SHUNT_MAX_VOLTAGE /SHUNT_MAX_CURRENT
+
+#define SHUNT_RESISTANCE 0.0015F // in OHM  ,1.5mOhm R_shunt = V_max_shunt / I_max_shunt === SHUNT_MAX_VOLTAGE /SHUNT_MAX_CURRENT
+#define SHUNT_RESISTANCE_MILLI_OHM 1.5 //in milli OHM , 1.5mOhm R_shunt = V_max_shunt / I_max_shunt === SHUNT_MAX_VOLTAGE /SHUNT_MAX_CURRENT
 
 #define SHUNT_MULTIPLIER 0.0078125F // Check Docs // 16x gain  +/- 0.256V  1 bit = 0.0078125mV for ADS1115
 
